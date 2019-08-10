@@ -14,8 +14,6 @@ redirect_from:
 (def lazy-fib
   (concat
    [0 1]
-   <mark>((fn rfib [a b]</mark>
-        (lazy-cons (+ a b) (rfib b (+ a b)))) 0 1)))
 </code></pre>
 I'm currently a faculty member in the Department of Physics & Astronomy at Regis University in Denver. My scientific research interests include:
 * the intergalactic & circumgalactic media
