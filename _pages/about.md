@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div markdown="0">
 
-<img  markdown="0" src="./images/profile.png" align="left" style="width: 100px"; />
+<img  markdown="0" src="./images/profile.png" align="left" style="width: 100px"; /></div>
 <video data-autoplay src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
 <pre><code data-noescape>
 (def lazy-fib
