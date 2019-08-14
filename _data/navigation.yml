@@ -10,7 +10,10 @@ main:
     url: /outreach/ 
     
   - title: "CV"
-    url: /cv/
+    url: /cv/    
+    
+  - title: "Guides for Students"
+    url: /guides/
 
 #default links commented out below
 #  - title: "Publications"
