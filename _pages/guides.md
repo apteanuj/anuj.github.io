@@ -7,13 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-Various guides to help with technical tasks.
+Here are various guides to help with technical tasks.
 
 Guides I wrote:
+{% for post in site.guides reversed %}  {% include archive-single-guide.html %}{% endfor %}
 
-{% for post in site.guides reversed %}
-  {% include archive-single-guide.html %}
-{% endfor %}
+-----
 
 External guides:
 
