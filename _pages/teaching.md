@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-
 ## Fall 2019, Regis Univsersity
 * PH202A Physics I with Trigonometry
 * PH305A, Lab for Physics I with Calculus. Two sections.
