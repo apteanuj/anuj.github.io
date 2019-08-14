@@ -2,6 +2,7 @@
 ---
 layout: archive
 title: "Linking to a particular version of a Github file"
+permalink: /guides/linktogithubcommit/
 author_profile: true
 ---
 
