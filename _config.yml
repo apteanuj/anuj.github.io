@@ -231,6 +231,17 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      
+      #   _slides
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: single
+      author_profile: true
+      sidebar: true
+      share: false
+      comments: false
   ## _portfolio
   #- scope:
   #    path: ""
