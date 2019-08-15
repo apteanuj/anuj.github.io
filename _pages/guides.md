@@ -16,4 +16,6 @@ Guides I wrote:
 
 External guides:
 
+[Installing Anaconda Python](https://docs.anaconda.com/anaconda/install/)
+
 [Using Google Colab with Github](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
