@@ -36,7 +36,7 @@ If we want to *temporarily* add a directory to our python, we could simply run t
 import sys
 sys.path.append(r'/path/to/my/package')
 ```
-where "/path/to/my/package" should be changed to the file path to the folder containing your python script file.
+where "/path/to/my/package" should be changed to the file path to the folder containing your python script file. This approach would only work until we closed that instance of the python compiler; we would need to re-run it each time we started a python command line.
 
 If we want to more permanently add a folder to our `PYTHONPATH`, we can do so by creating a `.pth` file in the `site-packages` directory. In the screenshot above, notice the `site-packages` folder. Each Anaconda installation should have a folder of that name. Create a new text file in that directory, naming it such that it has the file extension `.pth` (e.g., a file named `extrapythonfolders.pth` would be fine). Within that text file, you can list directories that you want to include in your `PYTHONPATH`, one per line. For example, on a Windows machine I might add a line that reads `C:\myscripts`. Save the file with these new locations, and then try again running the following command on the Anaconda Prompt:
 ```
