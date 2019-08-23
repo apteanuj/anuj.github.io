@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Evan M. Tilton, Ph.D."
   avatar           : "profile-b&w-lowquality.png"
-  bio              : "Astrophysicist and Assistant Professor of Physics & Astronomy. Preferred pronouns: he/him/his."
+  bio              : "Astrophysicist and Assistant Professor of Physics & Astronomy. Pronouns: he/him/his."
   location         : "Colorado, USA"
   employer         : "Regis University"
   ads              : "https://ui.adsabs.harvard.edu/search/q=author%3A(%22tilton%2C%20evan%20michael%22)%20AND%20pubdate%3A%5B2010-01%20TO%20*%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0"
