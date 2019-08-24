@@ -8,7 +8,7 @@ author_profile: true
 
 (The following information applies only to Anaconda installations. The basic idea applies to any python installation, but the precise ways of addressing the issue are different.)
 
-Suppose you write a Python script file called, say, `coolscript.py` which has all kinds of cool functions that you wrote. Maybe you saved it on your computer's desktop. Maybe then you go to Anaconda Navigator, fire up Spyder or another program within Anconda, and try to import those functions with a line of code like, 
+Suppose you write a Python module called, say, `coolscript` which has all kinds of cool functions that you wrote. Maybe you saved it on your computer's desktop. Maybe then you go to Anaconda Navigator, fire up Spyder or another program within Anconda, and try to import those functions with a line of code like, 
 ```python
 from coolscript import *
 ```
