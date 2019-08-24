@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## *Temporary notice for Regis students.* If you need to contact me while Regis email is down: (1) If you are in a 200-level course, email me at evan.tilton@colorado.edu. (2) If you are in PH410, join our Slack and contact me there (see http://evantilton.com/ph410f19 for details)
+## *Temporary notice for Regis students.* If you need to contact me while Regis email is down: (1) If you are in a 200-level course, email me at evan.tilton@colorado.edu. (2) If you are in PH410, join our Slack and contact me there (see http://evantilton.com/ph410f19 for details, and note that you may need to use a non-Regis email to register owing to the outage)
 
 I'm currently a faculty member in the Department of Physics & Astronomy at Regis University in Denver. My scientific research interests include:
 * the intergalactic & circumgalactic media
