@@ -123,6 +123,7 @@ include:
   - _pages
   - files
   - guides
+  - ph202af19
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
