@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "PH202A - Fall 2019"
-permalink: /ph202af19/ph202afindex/
+permalink: /ph202af19/
 author_profile: true
 ---
 
