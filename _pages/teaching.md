@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Fall 2019, Regis Univsersity
-* [PH202A Physics I with Trigonometry](../ph202af19/ph202afindex/)
+* [PH202A Physics I with Trigonometry](../ph202af19/)
 * PH305A, Lab for Physics I with Calculus. Two sections.
 * [PH410, Electricity & Magnetism](../ph410f19/)
 * PH475, Physics capstone project, co-taught with F. Gray.
