@@ -5,6 +5,6 @@ permalink: /ph202af19/
 author_profile: true
 ---
 
-[Syllabus]()
+[Syllabus](./ph202af19syllabus.pdf)
 
 [Homework 1](./hw1.pdf)
