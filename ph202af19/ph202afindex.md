@@ -17,4 +17,4 @@ author_profile: true
 
 ## Slides used in class
 
-[Day 1](./day1.pdf)
+[Day 1](./day01.pdf)
