@@ -20,3 +20,5 @@ Reading Survey 1 - Due at 8am on 2019-08-28 (closed)<!--(https://forms.gle/YQwqm
 ## Slides used in class
 
 [Day 1](./day01.pdf)
+
+[Day 2](./day02.pdf)
