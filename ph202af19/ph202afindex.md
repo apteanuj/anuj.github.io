@@ -8,12 +8,14 @@ author_profile: true
 ## [Syllabus](./ph202af19syllabus.pdf)
 
 ## Homework
-[Homework 1 - Due at 9am on 2019-08-30](./hw1.pdf) **NOTE: File updated 2:30pm on Tuesday. There was a typo in part b of number 2 that made it impossible to solve. It has been fixed. I apologize for the mistake -- an erroneous version of the homework got distributed as a result of some side effects of the network outage. My bad for not catching it sooner. 
+[Homework 1 - Due at 9am on 2019-08-30](./hw1.pdf) **NOTE: File was updated 2:30pm on Tuesday, Aug 27. There was a typo in part b of number 2 that made it impossible to solve. It has been fixed. I apologize for the mistake -- an erroneous version of the homework got distributed as a result of some side effects of the network outage. My bad for not catching it sooner. 
 
 ## Online surveys
 [Pre-course survey - counts for bonus HW credit - due at 9am on 2019-08-30](https://forms.gle/4PSzeyWNEKecNvv78)
 
 [Reading Survey 1 - Due at 8am on 2019-08-28](https://forms.gle/YQwqmaqoAhBCXS1F7)
+
+<!--[Reading Survey 2 - Due at 8am on 2019-08-30](https://forms.gle/bPBNDs6RrdZ585Qj6)-->
 
 ## Slides used in class
 
