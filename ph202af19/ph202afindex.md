@@ -25,4 +25,7 @@ Reading Survey 2 - Due at 8am on 2019-08-30 (closed) <!--(https://forms.gle/bPBN
 
 [Day 1](./day01.pdf)
 
-[Day 2](./day02.pdf)
+[Day 2](./day02.pdf
+
+[Day 3](./day03.pdf)
+
