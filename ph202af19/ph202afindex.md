@@ -17,9 +17,9 @@ author_profile: true
 
 Reading Survey 1 - Due at 8am on 2019-08-28 (closed)<!--(https://forms.gle/YQwqmaqoAhBCXS1F7)-->
 
-[Reading Survey 2 - Due at 8am on 2019-08-30](https://forms.gle/bPBNDs6RrdZ585Qj6)
+Reading Survey 2 - Due at 8am on 2019-08-30 (closed) <!--(https://forms.gle/bPBNDs6RrdZ585Qj6)-->
 
-<!--[Reading Survey 2 - Due at 8am on 2019-08-30](https://forms.gle/8M1EqzzHZ9Z5FJ896)-->
+[Reading Survey 3 - Due at 8am on 2019-09-04](https://forms.gle/8M1EqzzHZ9Z5FJ896)
 
 ## Slides used in class
 
