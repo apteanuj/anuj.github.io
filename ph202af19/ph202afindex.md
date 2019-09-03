@@ -5,6 +5,8 @@ permalink: /ph202af19/
 author_profile: true
 ---
 
+# WorldClass is now working. Solutions to HW1 are posted there. 
+
 ## [Syllabus](./ph202af19syllabus.pdf)
 
 ## Homework
@@ -13,7 +15,7 @@ author_profile: true
 [Homework 2 - Due at 9am on 2019-09-06](./hw2.pdf)
 
 ## Online surveys
-[Pre-course survey - counts for bonus HW credit - due at 9am on 2019-08-30](https://forms.gle/4PSzeyWNEKecNvv78)
+Pre-course survey - counts for bonus HW credit - due at 9am on 2019-08-30 (closed) <!--(https://forms.gle/4PSzeyWNEKecNvv78)-->
 
 Reading Survey 1 - Due at 8am on 2019-08-28 (closed)<!--(https://forms.gle/YQwqmaqoAhBCXS1F7)-->
 
