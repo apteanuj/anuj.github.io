@@ -5,7 +5,9 @@ permalink: /ph202af19/
 author_profile: true
 ---
 
-# WorldClass is now working. Solutions to HW1 and all subsequent materials are posted there. Contact me if you are having trouble accessing them!
+Backup of WorldClass materials as of 2019-09-22: [ph202amaterials.zip](./ph202amaterials.zip)
+
+# WorldClass is now mostly working. Solutions to HW1 and all subsequent materials are posted there. Contact me if you are having trouble accessing them!
 
 ## [Syllabus](./ph202af19syllabus.pdf)
 
