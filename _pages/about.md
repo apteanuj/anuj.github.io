@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I'm currently a faculty member in the Department of Physics & Astronomy at Regis University in Denver. My scientific research interests include:
 * the intergalactic & circumgalactic media
 * active galactic nuclei (AGNs)
