@@ -2,3 +2,4 @@ _site/
 
 _guides/~$searchagreement.docx
 *.tmp
+.DS_Store
