@@ -5,6 +5,8 @@ excerpt: ""
 author_profile: true
 ---
 
+This schedule isn't finished, I'm still working on it...
+
 | Date  |                 Topic                 | Schroeder Reading Due | Suggested Moore Reading Due        |
 | :---- | :-----------------------------------: | :-------------------- | :--------------------------------- |
 | 8/27  |                 Intro                 | none                  |                                    |
