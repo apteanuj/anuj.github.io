@@ -28,24 +28,16 @@ author_profile: true
 
 
 ## Overview
+This upper-division course will cover statistical mechanics and thermodynamics, which together comprise the broader category of thermal physics. We will discover that much of this field boils down to understanding two concepts in detail: entropy and free energy. We will have three meetings per week and weekly homework. 
 
-Physics 410, Electricity and Magnetism, is our upper-division course in classical electromagnetism. It
-uses the tools of vector calculus for solving static and dynamic
-properties of electromagnetic fields. The topics we will cover include
-special cases of static charge distributions (electrostatics),
-time-independent current distributions (magnetostatics), electric and
-magnetic properties of matter (dielectrics and magnetic media), and,
-(time permitting) initial coverage of fully time-dependent problems
-(Maxwell's equations). We have many learning goals in this course, which
-include content and mathematical skill mastery, high level
-problem-solving skills, physical sense-making, deepened conceptual
-understanding, communication skills, and connection to other courses and
-to the real world. 
+Thermal physics is one of the most general and reliable realms of knowledge in the physical sciences. We will discover that a handful of relatively simple laws and concepts apply equally well to exotic phenomena such as black holes and Bose-Einstein condensates, to every-day practical applications such as cooking or refrigeration, or to chemical reactions and biological processes. Along the way, we will encounter computational tools common to the physical and mathematical sciences, most notably \LaTeX\ and Python. As Goldstein \& Goldstein put it in their book \textit{The Refrigerator and the Universe}, ``Thermodynamics has something to say about almost everything but does not tell us everything about anything.''
 
 ## Prerequisites
-It is absolutely essential that you have already successfully completed the entire Calculus sequence (Calculus 1, 2, and 3, aka MT360A, B, and C) as well as the Physics with Calculus sequecence (both Physics 1 and 2, aka PH304A and B). This course uses vector calculus at a high level at nearly every step; you will not succeed if you have not already developed this skill.
+Students in PH~465 should already have taken the PH~304 sequence (introductory physics with calculus). **Proficiency in single-variable calculus is assumed.** Calculus will be used liberally in all aspects of the course, and it will not be significantly reviewed or re-taught. You should be comfortable using and interpreting derivatives and integrals before starting any upper division physics courses. We will also encounter series and multivariate calculus, though extreme proficiency in these topics will not be assumed. However, exposure to the topics of Calculus III, either in the past or concurrently with this course, will be an advantage.
 
-We will also be using computer programming (in Python) and differential equations. Though previous experience in these areas is certainly an asset, it is not required to take this course. You will be provided with the necessary information to tackle them for the first time.
+We will occasionally use computational tools to assist us. Students should be comfortable using at least one of the major operating systems (Windows, Mac OS, or Linux). Past exposure to a programming language (e.g., Python, etc) will be helpful but is not required.
+
+All upper division physics courses are interrelated, so we will occasionally discuss topics related to quantum mechanics and electromagnetism, but upper division courses on these topics are not required to take this course. All necessary information on these topics is provided in our textbook or in your introductory textbooks.
 
 
 ## My Classroom Rules -- A Commitment to an Inclusive Classroom
