@@ -68,7 +68,7 @@ PH 465 covers material at a high level of conceptual and mathematical sophistica
 - Challenging exams. 
 - A great deal of learning that is very rewarding in the end.
 
-PH~465 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
+PH 465 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
 
 ### How to Succeed in this Course
 The topics that we will cover in PH~465 are among the greatest intellectual achievements of humans. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:- Read the chapter before the lecture. Read extremely carefully; do not skim. 
@@ -106,7 +106,7 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 
 ### Optional book:
 
-- Thomas A. Moore. [*Six Ideas that Shaped Physics, Unit T: Some Processes Are Irreversible*, 3rd Edition](https://www.amazon.com/Six-Ideas-That-Shaped-Physics/dp/0077600967/). This textbook is written at a somewhat lower, less-comprehensive level than our primary textbook and is thus not sufficient as a primary text. However, it is probably the clearest description of the basic ideas of thermal physics that I have ever seen. Although it goes in a somewhat different order than our primary textbook, I strongly recommend reading it as a parallel supplement to our course. Earlier editions are also very good, but the chapters are in a slightly different order. Be aware of the errata at http://www.physics.pomona.edu/sixideas/.
+- Thomas A. Moore. [*Six Ideas that Shaped Physics, Unit T: Some Processes Are Irreversible*, 3rd Edition](https://www.amazon.com/Six-Ideas-That-Shaped-Physics/dp/0077600967/). This textbook is written at a somewhat lower, less-comprehensive level than our primary textbook and is thus not sufficient as a primary text. However, it is probably the clearest description of the basic ideas of thermal physics that I have ever seen. Although it goes in a somewhat different order than our primary textbook, I strongly recommend reading it as a parallel supplement to our course. Earlier editions are also very good, but the chapters are in a slightly different order. Be aware of the errata at http://www.physics.pomona.edu/sixideas/. (PS: **Don't** buy this book in advance of the first day of class. We will talk about using it.)
 
 [Supplementary texts: You may also be interested in these other texts, if you don't like our main textbook.](./supplements/)
 
@@ -130,8 +130,7 @@ You are encouraged to collaborate on difficult homework problems, but you must d
 
 You should cite any and all external assistance that you receive on any work - in fact, you should do this everywhere in life! If Angeline Kumar and Gunnarr Skuld helped you with part of a problem, then add a note to that effect (e.g., “Gunnar and I came up with the main idea of the solution together, and Angeline pointed out to me that we were counting the degrees of freedom incorrectly.”). If everyone, when hopelessly stuck, looked at the Wikipedia page for the “Ideal Gas Law” and happened to see a major piece of the solution, cite it explicitly. We all need help with physics sometimes, but we also need to both acknowledge that help and build on it with original thinking of our own.
 
-No late homeworks will be accepted. If you have an illness, family emergency, or similar excused reason for not completing an
-assignment, then you will be excused from that assignment. It is your resonsibility to go back and work the problems as soon as you can.
+No late homeworks will be accepted. If you have an illness, family emergency, or similar excused reason for not completing an assignment, then you will be excused from that assignment. It is your resonsibility to go back and work the problems as soon as you can.
 
 
 #### Computational Homework Problems
@@ -145,16 +144,15 @@ If you get stuck with the technological aspects of the class, don't be afraid to
 
 ## Grading and Exams
 
-Your course grade is largely determined by a combination of your
-performance on exams and homework, with an additional small portion from class participation. 
+Your course determined as shown:
 
 | Activity        |            Date              | Percent of Grade |
 |-----------------|:----------------------------:|-----------------:|
 | Exam 1          |       <span style="color:red">?????????????????????</span>  |              15% |
 | Exam 2          |       <span style="color:red">?????????????????????</span>  |              15% |
-| Final Exam      |       December 9 @ 10:10am   |              20% |
-| Homework        |           usually Fridays    |              40% |
-| Participation   |           all                |              10% |
+| Final Exam      |       April 29 @ 10:10am     |              15% |
+| Homework        |           usually Fridays    |              35% |
+| Participation   |           all                |              20% |
 
 Owing to the small class size and the inaccuracy of predicting grade distributions on upper division physics exam problems, the final mapping of letter grades to numerical scores will likely be revised at the end of the semester. However, as a rough guide, you should expect score distributions approximately as follows:
 
@@ -179,31 +177,20 @@ I reserve the right to assign higher grades than would result from this table ac
 
 You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. During class, we will have concept questions, tutorials, and other activities that are graded for participation (not correctness). 
 
-<!--Each day, one student will be begin class by summarizing and briefly teaching the assigned reading (which all students are assumed to have read in detail). These summaries should last approximately five minutes, and they should be active teaching that encourages dialogue among the class, perhaps with questions or examples. They should never exceed ten minutes - you are responsible for controlling the timing of the class during the presentation. You will receive a grade each full ‘cycle’ of students; half of the grade will be based on your presentation while the other half will be awarded for good-faith, well-prepared engagement when not leading the class. Your presentation day will be graded on a 1-5 scale on both “Presentation” (how effectively did you communicate the material?) and “Preparation” (how well prepared were you?).-->
+Each day, one student will be begin class by summarizing and briefly teaching the assigned reading (which all students are assumed to have read in detail). These summaries should last approximately five minutes, and they should be active teaching that encourages dialogue among the class, perhaps with questions or examples. They should never exceed ten to fifteen minutes - you are responsible for controlling the timing of the class during the presentation. You will receive a grade each full ‘cycle’ of students; half of the grade will be based on your presentation while the other half will be awarded for good-faith, well-prepared engagement when not leading the class. Your presentation day will be graded on a 1-5 scale on both “Presentation” (how effectively did you communicate the material?) and “Preparation” (how well prepared were you?).
 
-There will be a brief reading quiz on Slack due prior to each class which will also contribute a small amount to this category. I reserve the right to give unannounced in-class quizzes; it is *highly* unlikely that this will happen if the class is mostly keeping up with the reading and homework, but if significant non-participation occurs I will begin giving them without warning (I have never had to do this so far in my teaching career -- let's keep it that way!). There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
+At the end of the semester, you will choose a longer "special topic" to study and teach in more detail. Details will be provided in class.
 
+There will be a brief reading survey due prior to each class which will also contribute a small amount to this category. I reserve the right to give unannounced in-class quizzes; it is *highly* unlikely that this will happen if the class is mostly keeping up with the reading and homework, but if significant non-participation occurs I will begin giving them without warning (I have never had to do this so far in my teaching career -- let's keep it that way!). There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
 
 ### Exams
 
-Midterm exams will consist of both in-class and take-home portions. The take-home portion will be due by 5pm on the day following its distribution. For the in-class portion, you may bring a calculator and you will have access to one equation sheet (details to be given in class prior to the exam). Calculators with scientific notation are allowed and sometimes needed. For the take home portion, you may use the textbook, the equation sheet, and a calculator, but no other forms of assistance or information. If I suspect academic integrity violation I **will** immediately report it to the Dean's office, and it will likely result in an F in the course, among other possible sanctions in compliance with the University Catalog.
+There will be two in-class midterm exams and a final exam. All exams are cumulative, although midterms will primarily focus on the material introduced since the last midterm. No calculators or other electronics devices are allowed during exams. Details about exam format will be given in class.
 
-The final exam will consist only of an in-class portion.
+All exams are cumulative of everthing covered so far in the course, as well as mathematics through calculus and the introductory physics sequence. Physics is inherently cumulative, always.
 
-All exams are cumulative of everthing covered so far in the course, as well as everything in the Calculus sequence and the introductory physics sequence. Physics is inherently cumulative, always.
-
-#### Exam Corrections
-
-Exams can be a stressful situtation and, sometimes, what you know doesn't really come across with
-the first attempt at the exam.
-
-For both Exam 1 and 2, you will be allowed to rework the exams to earn up to 40% of the credit that
-you weren't awarded the first time you took it. To earn this credit, you will need to rework the exam
-and turn in a page that addresses in words, point by point, what you did incorrectly on the exam and
-how you fixed up that understanding. You will not receive any credit for reworking unless both the amended physics is complete and correct and you have explicitly reflected on your misunderstandings.
-
-You are welcome to discuss the reworking of the exam with your classmates or me, but the work you turn in
-must be your own, much like with homework.
+## Tentative schedule
+[A rough schedule can be found at here.](./schedule/)
 
 ## Further Policies
 
