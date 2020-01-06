@@ -33,7 +33,7 @@ This upper-division course will cover statistical mechanics and thermodynamics, 
 Thermal physics is one of the most general and reliable realms of knowledge in the physical sciences. We will discover that a handful of relatively simple laws and concepts apply equally well to exotic phenomena such as black holes and Bose-Einstein condensates, to every-day practical applications such as cooking or refrigeration, or to chemical reactions and biological processes. Along the way, we will encounter computational tools common to the physical and mathematical sciences, most notably \LaTeX\ and Python. As Goldstein \& Goldstein put it in their book \textit{The Refrigerator and the Universe}, ``Thermodynamics has something to say about almost everything but does not tell us everything about anything.''
 
 ## Prerequisites
-Students in PH~465 should already have taken the PH~304 sequence (introductory physics with calculus). **Proficiency in single-variable calculus is assumed.** Calculus will be used liberally in all aspects of the course, and it will not be significantly reviewed or re-taught. You should be comfortable using and interpreting derivatives and integrals before starting any upper division physics courses. We will also encounter series and multivariate calculus, though extreme proficiency in these topics will not be assumed. However, exposure to the topics of Calculus III, either in the past or concurrently with this course, will be an advantage.
+Students in PH465 should already have taken the PH304 sequence (introductory physics with calculus). **Proficiency in single-variable calculus is assumed.** Calculus will be used liberally in all aspects of the course, and it will not be significantly reviewed or re-taught. You should be comfortable using and interpreting derivatives and integrals before starting any upper division physics courses. We will also encounter series and multivariate calculus, though extreme proficiency in these topics will not be assumed. However, exposure to the topics of Calculus III, either in the past or concurrently with this course, will be an advantage.
 
 We will occasionally use computational tools to assist us. Students should be comfortable using at least one of the major operating systems (Windows, Mac OS, or Linux). Past exposure to a programming language (e.g., Python, etc) will be helpful but is not required.
 
@@ -62,18 +62,16 @@ If you wish to speak about these issues confidentially, the Office of Counseling
 
 ## Important Notes on Expectations and Success
 ### What You Should Expect
-PH 410 covers material at a high level of conceptual and mathematical sophistication. Therefore, you should expect:
-- A large amount of material covered quickly. 
+PH 465 covers material at a high level of conceptual and mathematical sophistication. 
 - Few examples covered in lecture. Most homework problems are not at all similar to examples from class. 
-- Difficult homework problem sets that sometimes cannot be completed by one individual working alone. E&M students typically report spending a **minimum** of 10 hours per week on homework at most major universities.
+- Difficult homework problem sets that sometimes cannot be completed by one individual working alone. Upper division physics students typically report spending a **minimum** of 10 hours per week on homework at most major universities.
 - Challenging exams. 
 - A great deal of learning that is very rewarding in the end.
 
-PH 410 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
+PH~465 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
 
 ### How to Succeed in this Course
-The topics that we will cover in PH 410 are among the greatest intellectual achievements of humans. In particular, the electromagnetic field theory represented by Maxwell's equations is widely regarded as one of the most elegant and successful theories in science. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:
-- Read the chapter before the lecture. Read extremely carefully; do not skim. 
+The topics that we will cover in PH~465 are among the greatest intellectual achievements of humans. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:- Read the chapter before the lecture. Read extremely carefully; do not skim. 
 - Read with a pen and notebook; read very actively. Take notes while you read, and work out sample problems and steps of algebra skipped by the author.
 - Attend **every** class. 
 - Don't attempt the homework without studying the chapter(s) first. 
@@ -87,7 +85,7 @@ The topics that we will cover in PH 410 are among the greatest intellectual achi
 One of the most important aspects of success in fields of high levels of intellectual difficulty is self-care. It is also one of the most neglected.
 - Get enough sleep, and do so on a regular schedule. One of the biggest predictors of undergraduate success is sleep habits. For example, [give this a read](https://www.nytimes.com/2018/08/13/well/an-underappreciated-key-to-college-success-sleep.html). Pulling all-nighters or similar *is not useful at all* except in the most basic, memorization-based classes.
 - Similarly, take care of yourself in other ways. It is extremely important that you work hard, but working without also having complementary rest, relaxation, and self-care, is rarely very productive intellectually.
-- We'll be using Slack and other tools that make it very easy to communicate and collaborate -- which is great! Be but careful of letting that become an always-online expectaction. You neither have to be responding to electronic communication all the time, nor should you expect that of your peers or me. It is OK and healthy to mentally check-out from those things regularly!
+- We'll be using various tools that make it very easy to communicate and collaborate -- which is great! Be but careful of letting that become an always-online expectaction. You neither have to be responding to electronic communication all the time, nor should you expect that of your peers or me. It is OK and healthy to mentally check-out from those things regularly!
 
 
 ## Course communication
@@ -103,14 +101,14 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 
 ### Required book:
 
--  J.D. Griffiths. [*Introduction to Electromagnetism*, 4th Edition](http://goo.gl/iU6MdA) (Pearson; 2012). This book is great, and probably my favorite undergrad textbook on any subject. The [third edition might be less expensive](http://goo.gl/78y9jw), and it can be substituted (the primary difference is more practice problems in the fourth edition). I don't recommend that you get the first or second edition -- the organization and notation of those editions is slightly different. My reading assignments will refer to the 4th edition, however, so it is your responsibility to ensure that you read the correct content.
+-  Daniel V. Schroeder. [*An Introduction to Thermal Physics*](https://www.amazon.com/Introduction-Thermal-Physics-Daniel-Schroeder/dp/0201380277/). This book is great. I've spent a lot of time reading stat mech books, because I don't want to make you buy something that isn't worth it. This one is worth it, so please obtain a copy quickly, and give it your full attention. We will use this text immediately, so you should obtain it as soon as possible. It is available at the Regis bookstore, as well as most online booksellers. Be sure to amend your book according to the errata at http://physics.weber.edu/thermal/.
 
 
 ### Optional book:
 
-- H.M. Schey. [*Div, Grad, Curl, and All That*, 4th Edition](https://www.amazon.com/Div-Grad-Curl-All-That/dp/0393925161) (Norton and Company; 2004). This book is a great resource for developing a conceptual understanding of vector calculus. We will make extensive use of the ideas in this book, though I will not directly assign reading from it.
+- Thomas A. Moore. [*Six Ideas that Shaped Physics, Unit T: Some Processes Are Irreversible*, 3rd Edition](https://www.amazon.com/Six-Ideas-That-Shaped-Physics/dp/0077600967/). This textbook is written at a somewhat lower, less-comprehensive level than our primary textbook and is thus not sufficient as a primary text. However, it is probably the clearest description of the basic ideas of thermal physics that I have ever seen. Although it goes in a somewhat different order than our primary textbook, I strongly recommend reading it as a parallel supplement to our course. Earlier editions are also very good, but the chapters are in a slightly different order. Be aware of the errata at http://www.physics.pomona.edu/sixideas/.
 
-
+[Supplementary texts: You may also be interested in these other texts, if you don't like our main textbook.](./supplements/)
 
 ## Course Activities
 
