@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-This schedule isn't finished, I'm still working on it...
+This schedule isn't tentative. We will deviate from it as necessary as the course proceeds.
 
 | Date              |                 Topic                 | Schroeder Reading Due | Suggested Moore Reading Due    |
 |-------------------|---------------------------------------|-------------------|------------------------------------|
