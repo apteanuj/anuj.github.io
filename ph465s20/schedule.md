@@ -1,11 +1,11 @@
 ---
 permalink: /ph465s20/schedule/
-title: "schedule"
+title: "Schedule"
 excerpt: ""
 author_profile: true
 ---
 
-This schedule isn't tentative. We will deviate from it as necessary as the course proceeds.
+This schedule is tentative. We will deviate from it as necessary as the course proceeds.
 
 | Date              |                 Topic                 | Schroeder Reading Due | Suggested Moore Reading Due    |
 |-------------------|---------------------------------------|-------------------|------------------------------------|
