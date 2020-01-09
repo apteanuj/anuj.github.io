@@ -32,6 +32,11 @@ This upper-division course will cover statistical mechanics and thermodynamics, 
 
 Thermal physics is one of the most general and reliable realms of knowledge in the physical sciences. We will discover that a handful of relatively simple laws and concepts apply equally well to exotic phenomena such as black holes and Bose-Einstein condensates, to every-day practical applications such as cooking or refrigeration, or to chemical reactions and biological processes. Along the way, we will encounter computational tools common to the physical and mathematical sciences, most notably \LaTeX\ and Python. As Goldstein & Goldstein put it in their book *The Refrigerator and the Universe*, "Thermodynamics has something to say about almost everything but does not tell us everything about anything."
 
+
+## Tentative schedule
+[A rough schedule can be found at here.](./schedule/)
+
+
 ## Prerequisites
 Students in PH465 should already have taken the PH304 sequence (introductory physics with calculus). **Proficiency in single-variable calculus is assumed.** Calculus will be used liberally in all aspects of the course, and it will not be significantly reviewed or re-taught. You should be comfortable using and interpreting derivatives and integrals before starting any upper division physics courses. We will also encounter series and multivariate calculus, though extreme proficiency in these topics will not be assumed. However, exposure to the topics of Calculus III, either in the past or concurrently with this course, will be an advantage.
 
@@ -188,9 +193,6 @@ There will be a brief reading survey due prior to each class which will also con
 There will be two in-class midterm exams and a final exam. All exams are cumulative, although midterms will primarily focus on the material introduced since the last midterm. No calculators or other electronics devices are allowed during exams. Details about exam format will be given in class.
 
 All exams are cumulative of everthing covered so far in the course, as well as mathematics through calculus and the introductory physics sequence. Physics is inherently cumulative, always.
-
-## Tentative schedule
-[A rough schedule can be found at here.](./schedule/)
 
 ## Further Policies
 
