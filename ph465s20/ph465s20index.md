@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "PH465 - Spring 2020"
+title: "PH465 - Statistical Mechanics & Thermodynamics - Spring 2020 - 3 credits"
 permalink: /ph465s20/
 author_profile: true
 ---
-
-
-# PH465 - Statistical Mechanics & Thermodynamics - Spring 2020 - 3 credits 
 
 ## Contact Information
 
