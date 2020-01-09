@@ -30,7 +30,7 @@ author_profile: true
 ## Overview
 This upper-division course will cover statistical mechanics and thermodynamics, which together comprise the broader category of thermal physics. We will discover that much of this field boils down to understanding two concepts in detail: entropy and free energy. We will have three meetings per week and weekly homework. 
 
-Thermal physics is one of the most general and reliable realms of knowledge in the physical sciences. We will discover that a handful of relatively simple laws and concepts apply equally well to exotic phenomena such as black holes and Bose-Einstein condensates, to every-day practical applications such as cooking or refrigeration, or to chemical reactions and biological processes. Along the way, we will encounter computational tools common to the physical and mathematical sciences, most notably \LaTeX\ and Python. As Goldstein \& Goldstein put it in their book \textit{The Refrigerator and the Universe}, ``Thermodynamics has something to say about almost everything but does not tell us everything about anything.''
+Thermal physics is one of the most general and reliable realms of knowledge in the physical sciences. We will discover that a handful of relatively simple laws and concepts apply equally well to exotic phenomena such as black holes and Bose-Einstein condensates, to every-day practical applications such as cooking or refrigeration, or to chemical reactions and biological processes. Along the way, we will encounter computational tools common to the physical and mathematical sciences, most notably \LaTeX\ and Python. As Goldstein & Goldstein put it in their book *The Refrigerator and the Universe*, "Thermodynamics has something to say about almost everything but does not tell us everything about anything."
 
 ## Prerequisites
 Students in PH465 should already have taken the PH304 sequence (introductory physics with calculus). **Proficiency in single-variable calculus is assumed.** Calculus will be used liberally in all aspects of the course, and it will not be significantly reviewed or re-taught. You should be comfortable using and interpreting derivatives and integrals before starting any upper division physics courses. We will also encounter series and multivariate calculus, though extreme proficiency in these topics will not be assumed. However, exposure to the topics of Calculus III, either in the past or concurrently with this course, will be an advantage.
@@ -171,7 +171,7 @@ Owing to the small class size and the inaccuracy of predicting grade distributio
 |D-||55 – 57.99 |
 |F|No credit.|<55 |
 
-I reserve the right to assign higher grades than would result from this table according to my judgment of the difficulty of the assignments and exams. No final grades will be adjusted or curved downward relative to the above table under any circumstance. For example, if everyone earned above an 88\%, then everyone would get an A, so it is in your interest to work together and help each other learn physics. 
+I reserve the right to assign higher grades than would result from this table according to my judgment of the difficulty of the assignments and exams. No final grades will be adjusted or curved downward relative to the above table under any circumstance. For example, if everyone earned above an 88%, then everyone would get an A, so it is in your interest to work together and help each other learn physics. 
 
 ### Participation 
 
