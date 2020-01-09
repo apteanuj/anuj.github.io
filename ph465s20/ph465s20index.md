@@ -146,13 +146,13 @@ If you get stuck with the technological aspects of the class, don't be afraid to
 
 Your course determined as shown:
 
-| Activity        |            Date              | Percent of Grade |
-|-----------------|:----------------------------:|-----------------:|
-| Exam 1          |       <span style="color:red">?????????????????????</span>  |              15% |
-| Exam 2          |       <span style="color:red">?????????????????????</span>  |              15% |
-| Final Exam      |       April 29 @ 10:10am     |              15% |
-| Homework        |           usually Fridays    |              35% |
-| Participation   |           all                |              20% |
+| Activity        |            Date               | Percent of Grade |
+|-----------------|:-----------------------------:|-----------------:|
+| Exam 1          | Wednesday, 02 /19 (tentative) |              15% |
+| Exam 2          | Wednesday, 04 /01 (tentative) |              15% |
+| Final Exam      |       April 29 @ 10:10am      |              15% |
+| Homework        |           usually Fridays     |              35% |
+| Participation   |           all                 |              20% |
 
 Owing to the small class size and the inaccuracy of predicting grade distributions on upper division physics exam problems, the final mapping of letter grades to numerical scores will likely be revised at the end of the semester. However, as a rough guide, you should expect score distributions approximately as follows:
 
