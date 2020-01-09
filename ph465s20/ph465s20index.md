@@ -144,7 +144,7 @@ If you get stuck with the technological aspects of the class, don't be afraid to
 
 ## Grading and Exams
 
-Your course determined as shown:
+Your course grade is determined as shown:
 
 | Activity        |            Date               | Percent of Grade |
 |-----------------|:-----------------------------:|-----------------:|
