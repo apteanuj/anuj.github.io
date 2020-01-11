@@ -26,9 +26,9 @@ author_profile: true
 
 
 ## Overview
-This upper-division course will cover statistical mechanics and thermodynamics, which together comprise the broader category of thermal physics. We will discover that much of this field boils down to understanding two concepts in detail: entropy and free energy. We will have three meetings per week and weekly homework. 
 
-Thermal physics is one of the most general and reliable realms of knowledge in the physical sciences. We will discover that a handful of relatively simple laws and concepts apply equally well to exotic phenomena such as black holes and Bose-Einstein condensates, to every-day practical applications such as cooking or refrigeration, or to chemical reactions and biological processes. Along the way, we will encounter computational tools common to the physical and mathematical sciences, most notably Python. As Goldstein & Goldstein put it in their book *The Refrigerator and the Universe*, "Thermodynamics has something to say about almost everything but does not tell us everything about anything."
+In this course, we will discuss the behavior of electric charges.  We will see that charges generate *electric fields*
+and that charges in motion generate *magnetic fields*; the fields then cause forces on other charges.  We will learn how to calculate these quantities, and we will see how these electric and magnetic fields can store and transfer energy.  Furthermore, *light* can be  viewed as a *wave* that propagates through the electric and magnetic fields; we will conclude the course by contrasting this wave picture of light with the photon model that describes light as a particle.
 
 
 ## Tentative schedule
