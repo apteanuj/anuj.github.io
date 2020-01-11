@@ -20,7 +20,7 @@ author_profile: true
 		- [Google Colab](https://colab.research.google.com)
 <!--		- [Our Spotify playlist](https://open.spotify.com/playlist/0Q3VleFxIlnKZMoeC75aNn?si=2SJ0CA--T6yujl5NWM1Aqw) - feel free to add stuff -->
 -   Class Meetings: MWF 11:00 AM - 11:50 AM (Clarke Hall, 406)
--   Office hours: TBD. But I have an open door policy. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
+-   Office hours: M & W: 2pm-3pm; Th: 11am-1pm. But I have an open door policy, and am in my office more often than just these times. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me in advance to make sure I'm available.
 
 
 
