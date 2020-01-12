@@ -16,7 +16,7 @@ author_profile: true
 	- [WorldClass](https://worldclass.regis.edu) - Grades, reading surveys
 	- [Our Slack workspace](https://ph304bs20.slack.com) - Collaboration, solutions, etc. [(Invitation link to join the workspace)](https://join.slack.com/t/ph304bs20/shared_invite/enQtOTAyNDE5NjM5MTA4LTMwN2NmNzMzMDRmYzg5NDQwMmRjN2QxOGI5NTUyY2UxYTViODVlODE1YjBhMGY0NTk3YWJiYjkxMTA5YjhmNTY). Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
   - Our Spotify playlists. Feel free to add stuff, but please stick to your section! You are *especially* encouraged to add songs that play with, are about, or pun on the physics topic of the day. I reserve the right to rearrange, modify, or delete from these playlists.
-    - Spotify for RU01 (10am class)
+    - [Spotify for RU01 (10am class)](https://open.spotify.com/playlist/3hUWcO5UORYNCO01D7ar5n?si=BCYj8XuBRGCcb-KZHiW7sg)
     - Spotify for RU03 (1pm class)
 -   Class Meetings: MWF, 10:00 AM - 10:50 AM or 1PM - 1:50 PM in SCI 130
 -   Office hours: M & W: 2pm-3pm; Th: 11am-1pm. But I have an open door policy, and am in my office more often than just these times. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me in advance to make sure I'm available. **In general, I am always eager to help you with anything I can!**
