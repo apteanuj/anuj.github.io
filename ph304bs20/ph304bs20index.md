@@ -186,8 +186,8 @@ Your course grade is determined as shown:
 | Exam 2          | Wednesday, 03/18 (tentative)  |              10% |
 | Exam 3          | Wednesday, 04/08 (tentative)  |              10% |
 | Final Exam      | As scheduled by registrar     |              20% |
-| Homework        |           usually Fridays     |              30% |
-| Participation   |           all                 |              20% |
+| Homework        |           usually Fridays     |              35% |
+| Participation   |           all                 |              15% |
 
 You should expect score distributions approximately as follows:
 
