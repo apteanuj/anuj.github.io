@@ -16,7 +16,7 @@ author_profile: true
 -   Course web pages:
 	- [http://evantilton.com/ph304bs20](http://evantilton.com/ph465s20) - Syllabus
 	- [WorldClass](https://worldclass.regis.edu) - Grades, reading surveys
-	- [Our Slack workspace](https://ph304bs20.slack.com) - Collaboration, solutions, etc. <!--[(Invitation link to join the workspace)](https://join.slack.com/t/ph410f19/shared_invite/enQtNzMyMDIyODQ0NzI3LTc1ODliZjEzNzkwNjM0OWIyMGVlMjdiOWFmNjlmMDgwMTcxZjE3MTEwMmFiZWVlZDI4OTJkNzk1MDJmYTFkMzY).--> Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
+	- [Our Slack workspace](https://ph304bs20.slack.com) - Collaboration, solutions, etc. [(Invitation link to join the workspace)](https://join.slack.com/t/ph304bs20/shared_invite/enQtOTAyNDE5NjM5MTA4LTMwN2NmNzMzMDRmYzg5NDQwMmRjN2QxOGI5NTUyY2UxYTViODVlODE1YjBhMGY0NTk3YWJiYjkxMTA5YjhmNTY). Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
   - Our Spotify playlists. Feel free to add stuff, but please stick to your section! You are *especially* encouraged to add songs that play with, are about, or pun on the physics topic of the day. I reserve the right to rearrange, modify, or delete from these playlists.
     - Spotify for RU01 (10am class)
     - Spotify for RU03 (1pm class)
