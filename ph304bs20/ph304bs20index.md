@@ -5,8 +5,6 @@ permalink: /ph304bs20/
 author_profile: true
 ---
 
-# UNDER CONSTRUCTION, CHECK BACK ON JAN 13
-
 ## Contact Information
 
 -   Instructor: [Prof. Evan Tilton](http://evantilton.com) (he/him/his)
