@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-This schedule is tentative. We will deviate from it as necessary as the course proceeds.
+This schedule is tentative. We will deviate from it as necessary as the course proceeds. Information given in class always trumps this schedule.
 
 | Date             | Topic                                            | Keynote Student Teaching Topic                                                                                                             |
 |------------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
