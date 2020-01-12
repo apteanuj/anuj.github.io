@@ -41,11 +41,12 @@ You can sign up for your student presentation at one of the two links below. **B
 
 
 ## Prerequisites
-Students in PH465 should already have taken the PH304 sequence (introductory physics with calculus). **Proficiency in single-variable calculus is assumed.** Calculus will be used liberally in all aspects of the course, and it will not be significantly reviewed or re-taught. You should be comfortable using and interpreting derivatives and integrals before starting any upper division physics courses. We will also encounter series and multivariate calculus, though extreme proficiency in these topics will not be assumed. However, exposure to the topics of Calculus III, either in the past or concurrently with this course, will be an advantage.
 
-We will occasionally use computational tools to assist us. Students should be comfortable using at least one of the major operating systems (Windows, Mac OS, or Linux). Past exposure to a programming language (e.g., Python, etc) will be helpful but is not required.
+- Co-requisite: PH 305B (General Physics with Calculus Laboratory II).
+- Pre-requisite: PH 304A (General Physics with Calculus I). Note that this course brings with it a mathematics prerequisite of
+MT 360A (Calculus I).
 
-All upper division physics courses are interrelated, so we will occasionally discuss topics related to quantum mechanics and electromagnetism, but upper division courses on these topics are not required to take this course. All necessary information on these topics is provided in our textbook or in your introductory textbooks.
+We will use algebra, geometry, trigonometry, and calculus (both derivatives and integrals) throughout the course. You will also very  frequently use all of the concepts that were developed in PH 304A, and you will need to be ready to apply the problem-solving skills that you learned there.
 
 
 ## My Classroom Rules -- A Commitment to an Inclusive Classroom
@@ -69,24 +70,17 @@ I also have a mandatory reporting responsibility related to my role as a univers
 If you wish to speak about these issues confidentially, the Office of Counseling and Personal Development (OCPD) can help. OCPD is located in the Coors Life Direction Center, Room 114 and can be contacted by phone 24/7 at 303-458-3507. For more information, see www.regis.edu/ocpd.
 
 ## Important Notes on Expectations and Success
-### What You Should Expect
-PH 465 covers material at a high level of conceptual and mathematical sophistication. 
-- Few examples covered in lecture. Most homework problems are not at all similar to examples from class. 
-- Difficult homework problem sets that sometimes cannot be completed by one individual working alone. Upper division physics students typically report spending a **minimum** of 10 hours per week on homework at most major universities.
-- Challenging exams. 
-- A great deal of learning that is very rewarding in the end.
-
-PH 465 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
 
 ### How to Succeed in this Course
-The topics that we will cover in PH~465 are among the greatest intellectual achievements of humans. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:- Read the chapter before the lecture. Read extremely carefully; do not skim. 
-- Read with a pen and notebook; read very actively. Take notes while you read, and work out sample problems and steps of algebra skipped by the author.
+The topics that we will cover in PH~304B are among the greatest intellectual achievements of humans. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:
+- Read the chapter before the lecture. Read extremely carefully; do not skim. 
+- Read with a pen and notebook; read very actively. Make notes while you read, and work out sample problems and steps of algebra skipped by the author.
 - Attend **every** class. 
 - Don't attempt the homework without studying the chapter(s) first. 
 - Don't get isolated: Work with your classmates to understand the material, study, and complete problem sets.
 - Sometimes **do** get isolated: After working with classmates, always write up and consolidate your knowledge and solutions alone. test yourself to ensure that **you** understand.
 - Start your homework assignments **very early**. No one is smart enough to do the homework in the last hour before class, and no one is smart enough to learn the material without working problems. 
-- Don't fall behind; you will never catch up. 
+- Don't fall behind; you might never catch up. 
 - Just reading the text, attending lecture, and doing the homework **is not enough**. You have to *understand* the material. Test your understanding. If you can explain the material, in words, to someone else, without referring to the text, then you understand. If you can complete a problem you've never seen before on your own, then you understand. You may need to do many more problems than just those that are assigned in order to understand. This course is not about memorizing; it's about understanding.
 
 ### Self-care
@@ -98,7 +92,7 @@ One of the most important aspects of success in fields of high levels of intelle
 
 ## Course communication
 
-We'll be using WorldClass for grade distribution, but all other digital communications will take place on our Slack workspace. It will host homework solutions, discussions, and reading quizzes, and you should feel free to chat on it, vent, organize study sessions, etc. I intend to cultivate a rather informal learning community, so you should feel free to make it your space, but please also remember that it is an extension of our classroom at Regis, so you should behave in compliance with the student handbook.
+We'll be using WorldClass for grade distribution, but some other digital communications will take place on our Slack workspace. It will host homework solutions and discussions, and you should feel free to chat on it, vent, organize study sessions, etc. I intend to cultivate a rather informal learning community, so you should feel free to make it your space, but please also remember that it is an extension of our classroom at Regis, so you should behave in compliance with the student handbook.
 
 In particular, please note that I will **not** be answering questions that are purely scientific/mathematical in nature via email. You are welcome to come by my office, ask in class, **post on Slack, or contact a peer.** I will be enforcing this rule to stress the collaborative nature of physics. You are unlikely to succeed in this class (or any other physics endeavor) on your own; you should make it a priority to support your peers and to accept their help. Collaboration is not only encouraged, it is implicitly required. **I strongly suggest that you all frequently get together in person at times in addition to our scheduled meetings to discuss the material of this course.**
 
@@ -107,16 +101,19 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 
 ## Course Materials
 
-### Required book:
+We'll be using **Volume II** of the **fourth edition** of *Matter & Interactions* by Chabay and Sherwood. We will be reading from this book right away. You are welcome to obtain this book in any format that you prefer -- ebook or printed, though I find that most students do better with a physical book. You are also welcome to get the full version of *Matter & Interactions* that combines Volumes I and II; sometimes used copies of this version are cheapest, and it is the only version that comes in hardcover format. (Volume I is just the Physics 1 portion of the book, while Volume II is the material we will be covering.) I suggest investigating all purchasing/renting options, though, to make sure you get the format you prefer for the lowest price. In particular, check out these relevant websites:
+- For Volume II (the fourth edition of which should have a white and gray cover with lime-green title font):
+	- The relevant Amazon pages: https://www.amazon.com/Matter-Interactions-II-Electric-Magnetic/dp/1118914503/ 
+	- The relevant publisher ebook/paperback page: https://www.wiley.com/en-us/Matter+and+Interactions%2C+Volume+II%3A+Electric+and+Magnetic+Interactions%2C+4th+Edition-p-9781119113355
+	- The relevant publisher looseleaf, unbound version for placing in a 3 ring binder: https://www.wiley.com/en-us/Matter+and+Interactions%2C+Volume+2%3A+Electric+and+Magnetic+Interactions%2C+4th+Edition-p-9781119462033
+- For the full 2-semester version that covers Physics I and II (the fourth edition of which should have a white and gray cover with light-blue title font):
+	- The relevant amazon pages: https://www.amazon.com/Matter-Interactions-Ruth-W-Chabay/dp/1118875869
+	- The publisher print edition page: https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781118875865
+	- The publisher ebook page: https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781119029083
+	
+You do not need any online access code to go with the textbook -- you only need access to the text itself for reading.
 
--  Daniel V. Schroeder. [*An Introduction to Thermal Physics*](https://www.amazon.com/Introduction-Thermal-Physics-Daniel-Schroeder/dp/0201380277/). This book is great. I've spent a lot of time reading stat mech books, because I don't want to make you buy something that isn't worth it. This one is worth it, so please obtain a copy quickly, and give it your full attention. We will use this text immediately, so you should obtain it as soon as possible. It is available at the Regis bookstore, as well as most online booksellers. Be sure to amend your book according to the errata at http://physics.weber.edu/thermal/.
-
-
-### Optional book:
-
-- Thomas A. Moore. [*Six Ideas that Shaped Physics, Unit T: Some Processes Are Irreversible*, 3rd Edition](https://www.amazon.com/Six-Ideas-That-Shaped-Physics/dp/0077600967/). This textbook is written at a somewhat lower, less-comprehensive level than our primary textbook and is thus not sufficient as a primary text. However, it is probably the clearest description of the basic ideas of thermal physics that I have ever seen. Although it goes in a somewhat different order than our primary textbook, I strongly recommend reading it as a parallel supplement to our course. Earlier editions are also very good, but the chapters are in a slightly different order. Be aware of the errata at http://www.physics.pomona.edu/sixideas/. (PS: **Don't** buy this book in advance of the first day of class. We will talk about using it.)
-
-[Supplementary texts: You may also be interested in these other texts, if you don't like our main textbook.](./supplements/)
+The only other materials you will need are writing implements, paper, and access to an internet-connected device for homework.
 
 ## Course Activities
 
