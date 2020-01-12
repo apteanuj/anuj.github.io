@@ -119,47 +119,79 @@ The only other materials you will need are writing implements, paper, and access
 
 ### Readings
 
-Reading is an essential part of PH 410! Reading the text before class is
-very important. Our class meetings are to clarify your understanding, and to help you
-make sense of the material. I will assume you have done the required
-readings in advance and I will not simply lecture aloud about stuff you should have read! Griffiths is one of the best (and most readable)
-texts I know of - it will make a huge difference if you spend the time
-and effort to carefully read and follow the text. The
-[calendar](./calendar/) has the details on reading assignments.
+Reading is an essential part of PH 304! Reading the text before class is very important. Our class meetings are to clarify your understanding and to help you make sense of the material. I will assume you have done the required readings in advance and I will not simply repeat everything you should have read! Our book is fairly well written and readable - it will make a huge difference if you spend the time and effort to carefully read and follow the text. The [calendar](./schedule/) has the details on reading assignments.
 
 ### Homework
 
-There will be a homework due approximately each week. Homework is arguably the most important part of a physics class – it is where you learn to use the concepts. You should start homework early and work on it consistently. You should treat the assigned problems as the bare minimum number of problems that one could plausibly need to solve to learn material; you should almost certainly be solving more problems than what is assigned for each topic.
+There will be a homework due approximately each week. Homework is arguably the most important part of a physics class – it is where you learn to use the concepts. You should start homework early and work on it consistently. **You should treat the assigned problems as the bare minimum number of problems that one could plausibly need to solve to learn material; you should almost certainly be solving more problems than what is assigned for each topic.**
 
-You are encouraged to collaborate on difficult homework problems, but you must do so in a way that is both productive for your learning and within the guidelines of the Academic Honor Code. This means that you should never be simply copying or sharing solutions - to do so is both useless for learning and an academic integrity violation. Seriously, don’t cheat. You have no idea how easy it is to spot for your physics professors - the only question is when they decide to enforce it. Don’t gamble your whole academic career on saving some time on a homework problem. Instead, first take some time alone to attempt each problem and create your own ideas as to how they might be solved. Once you’re stuck, get together with classmates to brainstorm, talk through the problems, and work through a viable solution strategy. Finally, separate from the group, and write up a solution on your own, filling in the details. Remember, if you can’t solve similar problems on your own without help, then you haven’t learned the material and will not succeed on the exams or in real-life applications. Test yourself and, most importantly, be honest with yourself! For all assignments, **the work you turn in must in the end be your own**: in your own words, reflecting your own understanding. If, at any time, for any reason, you feel disadvantaged or isolated, contact me and I can discretely try to help arrange study groups.
+You are encouraged to collaborate on difficult homework problems, but you must do so in a way that is both productive for your learning and within the guidelines of the Academic Honor Code. This means that **you should never be simply copying or sharing solutions - to do so is both useless for learning and an academic integrity violation.** Seriously, don’t cheat. You have no idea how easy it is to spot for your physics professors - the only question is when they decide to enforce it. Don’t gamble your whole academic career on saving some time on a homework problem. Instead, first take some time alone to attempt each problem and create your own ideas as to how they might be solved. Once you’re stuck, get together with classmates to brainstorm, talk through the problems, and work through a viable solution strategy. Finally, separate from the group, and write up a solution on your own, filling in the details. Remember, if you can’t solve similar problems on your own without help, then you haven’t learned the material and will not succeed on the exams or in real-life applications. Test yourself and, most importantly, be honest with yourself! For all assignments, **the work you turn in must in the end be your own**: in your own words, reflecting your own understanding. If, at any time, for any reason, you feel disadvantaged or isolated, contact me and I can discretely try to help arrange study groups.
 
 You should cite any and all external assistance that you receive on any work - in fact, you should do this everywhere in life! If Angeline Kumar and Gunnarr Skuld helped you with part of a problem, then add a note to that effect (e.g., “Gunnar and I came up with the main idea of the solution together, and Angeline pointed out to me that we were counting the degrees of freedom incorrectly.”). If everyone, when hopelessly stuck, looked at the Wikipedia page for the “Ideal Gas Law” and happened to see a major piece of the solution, cite it explicitly. We all need help with physics sometimes, but we also need to both acknowledge that help and build on it with original thinking of our own.
 
 No late homeworks will be accepted. If you have an illness, family emergency, or similar excused reason for not completing an assignment, then you will be excused from that assignment. It is your resonsibility to go back and work the problems as soon as you can.
 
+Problems will be graded for both correctness and clarity. It is not enough to arrive at a correct answer; you must show a logical process that starts from known, identiﬁed physics principles. Your solutions must be written clearly and include diagrams where appropriate. You must work the problems with algebraic symbols before substituting in numbers. If a number has units, you must write them together with the number (every time). You are expected to use vector notation correctly, maintaining the distinctions among a vector, its components, and its magnitude. In particular, please remember that a vector can never be connected to a scalar by an equal sign (since they are fundamentally different classes of mathematical objects) and that the magnitude of a vector can never be a negative number, although any of the components of the vector can be negative. If the problem has a numerical result, credit will be deducted if the answer is unreasonable unless you explain that it is unreasonable.
 
-#### Computational Homework Problems
-There will be *some use of computation in this course* on homework problems. You will need to use Python (through [Jupyter notebooks](http://jupyter.org/)). You do not need any computational experience for this course as you will learn some fundamentals early on and keep using them throughout the course.  Python is used across the sciences as well as private industry, so learning it will serve you well in your future work, no matter what it is. Artists use Python, teachers use Python, data analysts use Python, sports teams use Python, and physicists use Python. I suggest downloading the [Anaconda distribution of
-Python](https://www.continuum.io/) as it comes with all the packages you
-will need to get up and running with Jupyter notebooks, but you are welcome to use any other method of running Python code as well. In particular, you might find something like [Google Colab](https://colab.research.google.com/) useful, which can  interface with Github, Google Drive, or a local storage drive.
+More specifically, each graded problem will be graded for:
+- Completeness and Clarity (30%) – Is each part of the problem fully addressed in a good faith effort? Regardless of correctness, is your reasoning transparent enough, via the words or diagrams, for a peer to understand it?
+- Model (20%) – Is your solution using the correct physical principles and applying them correctly?
+- Good Notation (20%) – Is your algebra conducted fully with algebraic symbols? Are units included wherever necessary? Are vectors notated correctly? 
+- Valid Math (20%) – Are all math steps shown, and are they correct?
+- Plausibility (10%) – Does your result have a plausible sign, magnitude, and/or units? If not, have you noted that you recognize it as implausible and why?
 
-I intend for everyone to use Github to manage their code. (However, as always, if this workflow places an undue burden on you for any reason, talk to me! We'll find a solution.) As you become involved with computational or analytic activities in the professional world, you'll find that people expect you to manage your code and documents professionally, too. The standard way of doing so is with `git` repositories ("repos"), often stored online on Github for easy sharing, distribution, and collaboration. You should make a Github account if you do not already have one; as with Slack, you are welcome to use a throwaway email address if you do not want to share your primary one. (However, both Slack and Github are very standard tools -- if you think you might have involvement with any technical field or hobby in the future, I recommend making an account that you'll be able to easily use for many years in many contexts.) 
+Additionally, after the solutions have been posted, homework may be corrected with a color-contrasting pen or pencil up until the next homework due date. Up to 75% of lost credit in the Model and Valid Math categories may be earned back. This means, for example, that if your initial attempt is entirely incorrect but well explained, plausible, and correctly notated, you may receive a 60% for the problem due to no credit in Model and Valid Math but full credit in the other categories. This 60% can be raised back up to 90% if you correct your work in light of the solutions. However, you may not simply copy the solutions onto your paper; you must carefully show how you erred and how it should be fixed. For example, you might write something like "In this step, I assumed constant velocity. However, I should have included the acceleration due to the force of friction. Taking this into account, the equation becomes…."
 
-If you get stuck with the technological aspects of the class, don't be afraid to check the guides that I've posted [here](http://evantilton.com/guides/), ask for help on Slack, come see me, or Google it (as should usually be your first recourse).
+If your solution reflects a lack of careful attention in general, due to problems such as illegibility, it may simply be returned ungraded. Problems that are given zero credit for insufficient attention may not be corrected for credit at all.
+
+This grading system rewards good-faith efforts at engaging with the problems. Because you have multiple opportunities to engage with and revise the problem, I will not comment extensively on the work when I grade it; you are expected to review the solutions online and revise appropriately. You are always welcome to seek help with these tasks in office hours.
+
+### Participation 
+
+You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. During class, we will have concept questions, problems, and other activities that are graded for participation (not correctness). You will also give one presentation.
+
+There will be a brief reading survey due prior to each class which will also contribute a small amount to this category. Additionally, we will use Plickers to answer questions in class -- these will be graded for participation but not correctness.
+
+You will be asked to give a "keynote" teaching presentation that will help you learn to speak more ﬂuently in the technical language of
+physics, and they will help to create a culture of participation and community in the class. It should be approximately 5 to 10
+minutes long, and it should introduce a new concept and set the stage for class discussion and problem-solving. I will provide a list
+of speciﬁc topics and dates for these presentations and ask you to sign up for one that interests you. You will need to prepare visual
+slides to accompany your presentations. I expect that presentation grades should generally be high, because your presentations will
+be good. If you give a clear, complete, factually correct, and on-topic presentation with organized slides, you will receive full credit.
+
+I reserve the right to give unannounced in-class quizzes; it is *highly* unlikely that this will happen if the class is mostly keeping up with the reading and homework, but if dramatic non-participation occurs I will begin giving them without warning (I have never had to do this so far in my teaching career -- let's keep it that way!). There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
+
+### Exams
+
+Tentative, approximate exam dates are given on the schedule in this syllabus. Firm exam dates will be announced 2-3 classes in advance.  These exams will test your understanding of the content from assigned readings, class time, and homework problems.  Exams could include a variety of types of questions, including but necessarily not limited to: 
+- Qualitative, conceptual questions that may be either multiple choice, multiple choice with explanation, short answer, etc. These types of questions will be similar to the conceptual questions in the textbook, conceptual questions I ask you in class or on homework, and in-class activities.
+- Quantitative problems similar in scope to the in-class example and assigned homework problems.
+
+The exams will not be tests of what you can memorize; they will require you to apply the principles that you have learned to new situations that you have never seen before. A key part of your studying should thus be solving problems that you have never seen before without looking at the solution until you have solved it yourself. All midterm exams are cumulative, but they will focus most heavily on material introduced since the previous midterm.
+
+For each exam, you may bring a single, hand-written equation sheet, no larger than both sides of an 8.5x11-inch piece of paper. Equation sheets will be collected with the exam and returned to you after the exam is graded. Your sheet may not contain fully-worked example problems. Equation sheets that include fully worked example problems or other significantly non-reminder-like information will be penalized with a substantial reduction of your exam score per my discretion.  Calculators are not permitted during exams.  No electronic devices, phones, are permitted during exams (except as accommodations for documented disabilities per Regis’s accessibility policies).
+
+Students may only make-up a missed exam if adequate documentation is provided for an excused absence BEFORE the exam day (e.g., Regis sponsored activities, such as sports, travel to academic conferences, etc., illness that can be verified by a doctor’s note, death in the family, etc.).  I will follow-up on any documentation that you provide and then decide if your absence is excused; if it is, we will work together to schedule the soonest possible time to make-up the missed exam.  The make-up exam may be different from the in-class exam, at my discretion.
+
+All exams are cumulative of everthing covered so far in the course, as well as Physics I and mathematics through Calculus I. Physics is inherently cumulative, always.
+
 
 ## Grading and Exams
+
+
 
 Your course grade is determined as shown:
 
 | Activity        |            Date               | Percent of Grade |
 |-----------------|:-----------------------------:|-----------------:|
-| Exam 1          | Wednesday, 02 /19 (tentative) |              15% |
-| Exam 2          | Wednesday, 04 /01 (tentative) |              15% |
-| Final Exam      |       April 29 @ 10:10am      |              15% |
-| Homework        |           usually Fridays     |              35% |
+| Exam 1          | Wednesday, 02/12 (tentative)  |              10% |
+| Exam 2          | Wednesday, 03/18 (tentative)  |              10% |
+| Exam 3          | Wednesday, 04/08 (tentative)  |              10% |
+| Final Exam      | As scheduled by registrar     |              20% |
+| Homework        |           usually Fridays     |              30% |
 | Participation   |           all                 |              20% |
 
-Owing to the small class size and the inaccuracy of predicting grade distributions on upper division physics exam problems, the final mapping of letter grades to numerical scores will likely be revised at the end of the semester. However, as a rough guide, you should expect score distributions approximately as follows:
+You should expect score distributions approximately as follows:
 
 | Letter Grade | Description | Numerical Grade |
 |-----------------|:----------------------------:|-----------------:|
@@ -176,23 +208,7 @@ Owing to the small class size and the inaccuracy of predicting grade distributio
 |D-||55 – 57.99 |
 |F|No credit.|<55 |
 
-I reserve the right to assign higher grades than would result from this table according to my judgment of the difficulty of the assignments and exams. No final grades will be adjusted or curved downward relative to the above table under any circumstance. For example, if everyone earned above an 88%, then everyone would get an A, so it is in your interest to work together and help each other learn physics. 
-
-### Participation 
-
-You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. During class, we will have concept questions, tutorials, and other activities that are graded for participation (not correctness). 
-
-Each day, one student will be begin class by summarizing and briefly teaching the assigned reading (which all students are assumed to have read in detail). These summaries should last approximately five minutes, and they should be active teaching that encourages dialogue among the class, perhaps with questions or examples. They should never exceed ten to fifteen minutes - you are responsible for controlling the timing of the class during the presentation. You will receive a grade each full ‘cycle’ of students; half of the grade will be based on your presentation while the other half will be awarded for good-faith, well-prepared engagement when not leading the class. Your presentation day will be graded on a 1-5 scale on both “Presentation” (how effectively did you communicate the material?) and “Preparation” (how well prepared were you?).
-
-At the end of the semester, you will choose a longer "special topic" to study and teach in more detail. Details will be provided in class.
-
-There will be a brief reading survey due prior to each class which will also contribute a small amount to this category. I reserve the right to give unannounced in-class quizzes; it is *highly* unlikely that this will happen if the class is mostly keeping up with the reading and homework, but if significant non-participation occurs I will begin giving them without warning (I have never had to do this so far in my teaching career -- let's keep it that way!). There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
-
-### Exams
-
-There will be two in-class midterm exams and a final exam. All exams are cumulative, although midterms will primarily focus on the material introduced since the last midterm. No calculators or other electronics devices are allowed during exams. Details about exam format will be given in class.
-
-All exams are cumulative of everthing covered so far in the course, as well as mathematics through calculus and the introductory physics sequence. Physics is inherently cumulative, always.
+I reserve the right to assign higher grades than would result from this table according to my judgment of the difficulty of the assignments and exams. That is, I will only deviate from this table in such a way that benefits you; no final grades will be adjusted or curved downward relative to the above table under any circumstance. For example, if everyone earned above an 88%, then everyone would get an A, so it is in your interest to work together and help each other learn physics. 
 
 ## Further Policies
 
