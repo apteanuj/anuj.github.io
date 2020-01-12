@@ -101,13 +101,13 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 
 We'll be using **Volume II** of the **fourth edition** of *Matter & Interactions* by Chabay and Sherwood. We will be reading from this book right away. You are welcome to obtain this book in any format that you prefer -- ebook or printed, though I find that most students do better with a physical book. You are also welcome to get the full version of *Matter & Interactions* that combines Volumes I and II; sometimes used copies of this version are cheapest, and it is the only version that comes in hardcover format. (Volume I is just the Physics 1 portion of the book, while Volume II is the material we will be covering.) I suggest investigating all purchasing/renting options, though, to make sure you get the format you prefer for the lowest price. In particular, check out these relevant websites:
 - For Volume II (the fourth edition of which should have a white and gray cover with lime-green title font):
-	- The relevant Amazon pages: https://www.amazon.com/Matter-Interactions-II-Electric-Magnetic/dp/1118914503/ 
-	- The relevant publisher ebook/paperback page: https://www.wiley.com/en-us/Matter+and+Interactions%2C+Volume+II%3A+Electric+and+Magnetic+Interactions%2C+4th+Edition-p-9781119113355
-	- The relevant publisher looseleaf, unbound version for placing in a 3 ring binder: https://www.wiley.com/en-us/Matter+and+Interactions%2C+Volume+2%3A+Electric+and+Magnetic+Interactions%2C+4th+Edition-p-9781119462033
+	- [The relevant Amazon pages](https://www.amazon.com/Matter-Interactions-II-Electric-Magnetic/dp/1118914503/)
+	- [The relevant publisher ebook/paperback page](https://www.wiley.com/en-us/Matter+and+Interactions%2C+Volume+II%3A+Electric+and+Magnetic+Interactions%2C+4th+Edition-p-9781119113355)
+	- [The relevant publisher looseleaf, unbound version for placing in a 3 ring binder](https://www.wiley.com/en-us/Matter+and+Interactions%2C+Volume+2%3A+Electric+and+Magnetic+Interactions%2C+4th+Edition-p-9781119462033)
 - For the full 2-semester version that covers Physics I and II (the fourth edition of which should have a white and gray cover with light-blue title font):
-	- The relevant amazon pages: https://www.amazon.com/Matter-Interactions-Ruth-W-Chabay/dp/1118875869
-	- The publisher print edition page: https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781118875865
-	- The publisher ebook page: https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781119029083
+	- [The relevant amazon pages](https://www.amazon.com/Matter-Interactions-Ruth-W-Chabay/dp/1118875869)
+	- [The publisher print edition page](https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781118875865)
+	- [The publisher ebook page](https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781119029083)
 	
 You do not need any online access code to go with the textbook -- you only need access to the text itself for reading.
 
