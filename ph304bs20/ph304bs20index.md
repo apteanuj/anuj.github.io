@@ -31,8 +31,13 @@ In this course, we will discuss the behavior of electric charges.  We will see t
 and that charges in motion generate *magnetic fields*; the fields then cause forces on other charges.  We will learn how to calculate these quantities, and we will see how these electric and magnetic fields can store and transfer energy.  Furthermore, *light* can be  viewed as a *wave* that propagates through the electric and magnetic fields; we will conclude the course by contrasting this wave picture of light with the photon model that describes light as a particle.
 
 
-## Tentative schedule
-[A *very* rough schedule can be found at here.](./schedule/)
+## Tentative schedule of topics and student presentations.
+
+[A *very* rough schedule of the course can be found here; it includes approximate dates of student presentations.](./schedule/)
+
+You can sign up for your student presentation at one of the two links below.**Be sure to sign up in the correct section.**
+ - [Sign up for the 10am section (RU01)](https://forms.gle/oUzHTdHgcjQAZZuV9)
+ - [Sign up for the 1pm section (RU03)](https://forms.gle/w5LPju9Wsv3BK5CRA)
 
 
 ## Prerequisites
