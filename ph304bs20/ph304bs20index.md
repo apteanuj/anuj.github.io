@@ -21,7 +21,7 @@ author_profile: true
     - Spotify for RU01 (10am class)
     - Spotify for RU03 (1pm class)
 -   Class Meetings: MWF, 10:00 AM - 10:50 AM or 1PM - 1:50 PM in SCI 130
--   Office hours: M & W: 2pm-3pm; Th: 11am-1pm. But I have an open door policy, and am in my office more often than just these times. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me in advance to make sure I'm available.
+-   Office hours: M & W: 2pm-3pm; Th: 11am-1pm. But I have an open door policy, and am in my office more often than just these times. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me in advance to make sure I'm available. **In general, I am always eager to help you with anything I can!**
 
 
 
