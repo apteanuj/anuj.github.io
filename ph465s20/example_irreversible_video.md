@@ -14,8 +14,8 @@ This definitely looks funny and is irreversible. The actual projectile-motion fa
 
 # Part (b) - Reversible Process:
 
-Original reversible video: https://www.youtube.com/watch?v=XULsHrRwu_M
+Original reversible video: https://www.youtube.com/watch?v=ohSGkNsjU88&feature=youtu.be&t=146
 
-Reversible video reversed: https://www.kapwing.com/videos/5ba3fdcf467565001210a222
+Reversible video reversed: https://www.kapwing.com/e/5e403b4ddce786001661986e
 
-This looks pretty irreversible to me. A puck sliding basically looks the same forward or backward. If we could look in more detail, however, we could find the small increases in entropy created by this process. The friction among the puck, ice, and air must result in some sort of heat flow that changes the internal energy of these materials. The air also probably gets turbulently mixed to some degree. The puck probably melts a small layer of ice underneath it, which is an increase in entropy.
+This looks pretty reversible to me (I'm focusing on just the few seconds after the time I linked to, during which he is hitting a puck back and forth). A puck sliding basically looks the same forward or backward. If we could look in more detail, however, we could find the small increases in entropy created by this process. The friction (which you can easily hear) among the puck, ground, and air must result in some sort of heat flow that changes the internal energy of these materials. The air also probably gets turbulently mixed to some degree. The man must also be generating heat in his body.
