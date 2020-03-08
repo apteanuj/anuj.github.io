@@ -7,6 +7,9 @@ author_profile: true
 
 This schedule is tentative. We will deviate from it as necessary as the course proceeds.
 
+**Update, 2020-03-08: Note that we have fallen behind this schedule due to the snow day. The dates are *not* current. The assignments I give in class are most accurate.**
+
+
 | Date              |                 Topic                 | Schroeder Reading Due | Suggested Moore Reading Due    |
 |-------------------|---------------------------------------|-------------------|------------------------------------|
 | Monday, 01 /13    | Intro                                 | none              |                                    |
@@ -29,7 +32,7 @@ This schedule is tentative. We will deviate from it as necessary as the course p
 | Friday, 02 /21    | Refrigerators                         | pp. 127-130       |                                    |
 | Monday, 02 /24    | Free Energy                           | pp. 149-160       |                                    |
 | Wednesday, 02 /26 | Free Energy; Intensive vs. Extensive  | pp. 161-166       |                                    |
-| Friday, 02 /28    | Phase Transformations & van der waals | pp. 166-179       | T4                                 |
+| Friday, 02 /28    | Phase Transformations & van der waals | pp. 166-184       | T4                                 |
 | Monday, 03 /02    | Spring Break                          |                   |                                    |
 | Wednesday, 03 /04 | Spring Break                          |                   |                                    |
 | Friday, 03 /06    | Spring Break                          |                   |                                    |
