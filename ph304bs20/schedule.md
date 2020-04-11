@@ -53,6 +53,6 @@ This schedule is tentative. We will deviate from it as necessary as the course p
 | Friday, 04/17    | 23.9-11 Geometric optics                         | Explain what it means that light from the sky is polarized (Tyler)                                                                                |
 | Monday, 04/20    | S3.1-3 Interference and diffraction              | Explain how we can learn about the structure of matter by studying diffraction of x-rays. (Kai)                                                 |
 | Wednesday, 04/22 | S3.4-5 Standing waves                            | Explain the physics behind a guitar string. What determines the note that it plays?  (Jayden & Thao)                                                      |
-| Friday, 04/24    | S3.6 Wave/particle duality                       | Explain how to interpret the photoelectric effect in terms of wave and particle models of light.                                           |
+| Friday, 04/24    | S3.6 Wave/particle duality                       |                                            |
 | Monday, 04/27    | Final Exam (8 am)                                |                                                                                                                                            |
 | Friday, 05/01    | Final Exam (10:10 am)                            |                                                                                                                                            |
