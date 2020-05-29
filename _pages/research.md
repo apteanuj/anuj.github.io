@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
+ 
 I'm broadly interested in observational astrophysics, especially if it is extragalactic and large-scale in nature. I most often use a combination of ultraviolet and visible spectroscopy with photoionization modeling to study the intergalactic medium, galaxies (especially active galaxies), and the interplay between the two. You can find my publications (and all of the papers which cite them) [via this ADS search](https://ui.adsabs.harvard.edu/search/q=author%3A(%22tilton%2C%20evan%20michael%22)%20AND%20pubdate%3A%5B2010-01%20TO%20*%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0). You will also find links to the arXiv versions of all of my papers via that search. If you prefer, you can also usually find all of my papers at [Google Scholar](https://scholar.google.com/citations?user=gpjPqTkAAAAJ), but it sometimes is not as complete as ADS. You can see papers in which I am acknowledged [via this ADS search](https://ui.adsabs.harvard.edu/search/q=ack%3A%22Evan%20Tilton%22%20or%20ack%3A%22Evan%20M.%20Tilton%22%20or%20ack%3A%22Evan%20M%20Tilton%22%20or%20ack%3A%22E%20Tilton%22%20not%20title%3A%22warm-hot%20intergalactic%20medium%20near%20the%20Coma%20cluster%20through%20high-resolution%20spectroscopy%20of%20X%20Comae%22&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 
