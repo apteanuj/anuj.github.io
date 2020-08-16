@@ -28,7 +28,7 @@ This upper-division course will cover how one infers scientific knowledge from o
 
 
 ## Tentative schedule
-TBD<!--[A rough schedule can be found at here.](./schedule/)--!>
+TBD
 
 
 ## Prerequisites
