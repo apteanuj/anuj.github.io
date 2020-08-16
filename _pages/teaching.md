@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Fall 2020, Regis Univsersity
+* PH475, Physics capstone project, co-taught with F. Gray.
+* PH202A Physics I with Trigonometry
+* PH205A, Physics I with Trigonometry Lab
+* [PH447, Optics, Observations, and Data Analysis](../ph447f20/)
 
 ## Spring 2020, Regis Univsersity
 * [PH304B, Physics II with Calculus. Two sections.](../ph304bs20/)
