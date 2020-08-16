@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "PH465 - Statistical Mechanics & Thermodynamics - Spring 2020 - 3 credits"
-permalink: /ph465s20/
+title: "PH447 - Optics, Observations, and Data Analysis - Fall 2020 - 4 credits"
+permalink: /ph447s20/
 author_profile: true
 ---
 
@@ -12,15 +12,14 @@ author_profile: true
 	- Please let us know how you would prefer to be addressed and what pronouns you use.
 -   Contact: <etilton@regis.edu>; office: Carroll 108C (inside the Math & Physics suite); office phone: 3034584166 (unreliable)
 -   Course web pages:
-	- [http://evantilton.com/ph465s20](http://evantilton.com/ph465s20) - Syllabus
+	- [http://evantilton.com/ph465s20](http://evantilton.com/ph447f20) - Syllabus
 	- [WorldClass](https://worldclass.regis.edu) - Grades, reading surveys
-	- [Our Slack workspace](https://ph465s20.slack.com) - Collaboration, solutions, etc. <!--[(Invitation link to join the workspace)](https://join.slack.com/t/ph410f19/shared_invite/enQtNzMyMDIyODQ0NzI3LTc1ODliZjEzNzkwNjM0OWIyMGVlMjdiOWFmNjlmMDgwMTcxZjE3MTEwMmFiZWVlZDI4OTJkNzk1MDJmYTFkMzY).--> Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
+	- [Our Slack workspace](https://ph447s20.slack.com) - Collaboration, solutions, etc. [(Invitation link to join the workspace)](https://join.slack.com/t/ph447f20/shared_invite/zt-gox5z00x-YyOP3hVwwdFD6M1EUFI0Dg). Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
 	- Other sites you'll likely use:
 		- [Github](https://github.com)
-		- [Google Colab](https://colab.research.google.com)
 <!--		- [Our Spotify playlist](https://open.spotify.com/playlist/0Q3VleFxIlnKZMoeC75aNn?si=2SJ0CA--T6yujl5NWM1Aqw) - feel free to add stuff -->
 -   Class Meetings: MWF 11:00 AM - 11:50 AM (Clarke Hall, 406)
--   Office hours: M & W: 2pm-3pm; Th: 11am-1pm. But I have an open door policy, and am in my office more often than just these times. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me in advance to make sure I'm available.
+-   Office hours: W: 2-4pm, Th: 12-2pm, or by appointment – message me on Slack! Via Zoom whenever possible this semester.
 
 
 
@@ -31,15 +30,15 @@ Thermal physics is one of the most general and reliable realms of knowledge in t
 
 
 ## Tentative schedule
-[A rough schedule can be found at here.](./schedule/)
+TBD<!--[A rough schedule can be found at here.](./schedule/)--!>
 
 
 ## Prerequisites
-Students in PH465 should already have taken the PH304 sequence (introductory physics with calculus). **Proficiency in single-variable calculus is assumed.** Calculus will be used liberally in all aspects of the course, and it will not be significantly reviewed or re-taught. You should be comfortable using and interpreting derivatives and integrals before starting any upper division physics courses. We will also encounter series and multivariate calculus, though extreme proficiency in these topics will not be assumed. However, exposure to the topics of Calculus III, either in the past or concurrently with this course, will be an advantage.
+Students in PH447 should already have taken the PH304 sequence (introductory physics with calculus). **Proficiency in single-variable calculus is assumed.** Calculus will be used liberally in all aspects of the course, and it will not be significantly reviewed or re-taught. You should be comfortable using and interpreting derivatives and integrals before starting any upper division physics courses. We will also encounter series and multivariate calculus, though extreme proficiency in these topics will not be assumed. However, exposure to the topics of Calculus III, either in the past or concurrently with this course, will be an advantage.
 
-We will occasionally use computational tools to assist us. Students should be comfortable using at least one of the major operating systems (Windows, Mac OS, or Linux). Past exposure to a programming language (e.g., Python, etc) will be helpful but is not required.
+We will  use computational tools to assist us. Students should be comfortable using at least one of the major operating systems (Windows, Mac OS, or Linux). Past exposure to a programming language (e.g., Python, etc) will be helpful but is not required.
 
-All upper division physics courses are interrelated, so we will occasionally discuss topics related to quantum mechanics and electromagnetism, but upper division courses on these topics are not required to take this course. All necessary information on these topics is provided in our textbook or in your introductory textbooks.
+All upper division physics courses are interrelated, so we will occasionally discuss topics related to quantum mechanics and electromagnetism, but upper division courses on these topics are not required to take this course. 
 
 
 ## My Classroom Rules -- A Commitment to an Inclusive Classroom
@@ -73,7 +72,7 @@ PH 465 covers material at a high level of conceptual and mathematical sophistica
 PH 465 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
 
 ### How to Succeed in this Course
-The topics that we will cover in PH~465 are among the greatest intellectual achievements of humans. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:- Read the chapter before the lecture. Read extremely carefully; do not skim. 
+The topics that we will cover in PH447 took centuries for humanity to master. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:- Read the chapter before the lecture. Read extremely carefully; do not skim. 
 - Read with a pen and notebook; read very actively. Take notes while you read, and work out sample problems and steps of algebra skipped by the author.
 - Attend **every** class. 
 - Don't attempt the homework without studying the chapter(s) first. 
@@ -103,30 +102,24 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 
 ### Required book:
 
--  Daniel V. Schroeder. [*An Introduction to Thermal Physics*](https://www.amazon.com/Introduction-Thermal-Physics-Daniel-Schroeder/dp/0201380277/). This book is great. I've spent a lot of time reading stat mech books, because I don't want to make you buy something that isn't worth it. This one is worth it, so please obtain a copy quickly, and give it your full attention. We will use this text immediately, so you should obtain it as soon as possible. It is available at the Regis bookstore, as well as most online booksellers. Be sure to amend your book according to the errata at http://physics.weber.edu/thermal/.
+- My lectures notes, which will be updated as we go. The currently available sections are at: [all_lectures.pdf](./all_lectures.pdf)
 
+-  Waal & Jenkins, [*Practical Statistics for Astronomers*](https://www.amazon.com/Practical-Statistics-Astronomers-Cambridge-Observing/dp/0521732492). This book is great. I've spent a lot of time reading stat mech books, because I don't want to make you buy something that isn't worth it. This one is worth it, so please obtain a copy quickly, and give it your full attention. We will use this text immediately, so you should obtain it as soon as possible. It is available at the Regis bookstore, as well as most online booksellers. Be sure to amend your book according to the errata at http://physics.weber.edu/thermal/.
 
-### Optional book:
-
-- Thomas A. Moore. [*Six Ideas that Shaped Physics, Unit T: Some Processes Are Irreversible*, 3rd Edition](https://www.amazon.com/Six-Ideas-That-Shaped-Physics/dp/0077600967/). This textbook is written at a somewhat lower, less-comprehensive level than our primary textbook and is thus not sufficient as a primary text. However, it is probably the clearest description of the basic ideas of thermal physics that I have ever seen. Although it goes in a somewhat different order than our primary textbook, I strongly recommend reading it as a parallel supplement to our course. Earlier editions are also very good, but the chapters are in a slightly different order. Be aware of the errata at http://www.physics.pomona.edu/sixideas/. (PS: **Don't** buy this book in advance of the first day of class. We will talk about using it.)
-
-[Supplementary texts: You may also be interested in these other texts, if you don't like our main textbook.](./supplements/)
 
 ## Course Activities
 
 ### Readings
 
-Reading is an essential part of PH 410! Reading the text before class is
+Reading is an essential part of PH 447! Reading the text before class is
 very important. Our class meetings are to clarify your understanding, and to help you
 make sense of the material. I will assume you have done the required
-readings in advance and I will not simply lecture aloud about stuff you should have read! Griffiths is one of the best (and most readable)
-texts I know of - it will make a huge difference if you spend the time
-and effort to carefully read and follow the text. The
-[calendar](./calendar/) has the details on reading assignments.
+readings in advance and I will not simply lecture aloud about stuff you should have read! It will make a huge difference if you spend the time
+and effort to carefully read and follow the text. 
 
 ### Homework
 
-There will be a homework due approximately each week. Homework is arguably the most important part of a physics class – it is where you learn to use the concepts. You should start homework early and work on it consistently. You should treat the assigned problems as the bare minimum number of problems that one could plausibly need to solve to learn material; you should almost certainly be solving more problems than what is assigned for each topic.
+There will be a homework due intermittently. Homework is arguably the most important part of a physics class – it is where you learn to use the concepts. You should start homework early and work on it consistently. You should treat the assigned problems as the bare minimum number of problems that one could plausibly need to solve to learn material; you should almost certainly be solving more problems than what is assigned for each topic.
 
 You are encouraged to collaborate on difficult homework problems, but you must do so in a way that is both productive for your learning and within the guidelines of the Academic Honor Code. This means that you should never be simply copying or sharing solutions - to do so is both useless for learning and an academic integrity violation. Seriously, don’t cheat. You have no idea how easy it is to spot for your physics professors - the only question is when they decide to enforce it. Don’t gamble your whole academic career on saving some time on a homework problem. Instead, first take some time alone to attempt each problem and create your own ideas as to how they might be solved. Once you’re stuck, get together with classmates to brainstorm, talk through the problems, and work through a viable solution strategy. Finally, separate from the group, and write up a solution on your own, filling in the details. Remember, if you can’t solve similar problems on your own without help, then you haven’t learned the material and will not succeed on the exams or in real-life applications. Test yourself and, most importantly, be honest with yourself! For all assignments, **the work you turn in must in the end be your own**: in your own words, reflecting your own understanding. If, at any time, for any reason, you feel disadvantaged or isolated, contact me and I can discretely try to help arrange study groups.
 
@@ -136,13 +129,13 @@ No late homeworks will be accepted. If you have an illness, family emergency, or
 
 
 #### Computational Homework Problems
-There will be *some use of computation in this course* on homework problems. You will need to use Python (through [Jupyter notebooks](http://jupyter.org/)). You do not need any computational experience for this course as you will learn some fundamentals early on and keep using them throughout the course.  Python is used across the sciences as well as private industry, so learning it will serve you well in your future work, no matter what it is. Artists use Python, teachers use Python, data analysts use Python, sports teams use Python, and physicists use Python. I suggest downloading the [Anaconda distribution of
+There will be *some use of computation in this course* on homework problems. You will need to use Python. You do not need any computational experience for this course as you will learn some fundamentals early on and keep using them throughout the course.  Python is used across the sciences as well as private industry, so learning it will serve you well in your future work, no matter what it is. Artists use Python, teachers use Python, data analysts use Python, sports teams use Python, and physicists use Python. I suggest downloading the [Anaconda distribution of
 Python](https://www.continuum.io/) as it comes with all the packages you
-will need to get up and running with Jupyter notebooks, but you are welcome to use any other method of running Python code as well. In particular, you might find something like [Google Colab](https://colab.research.google.com/) useful, which can  interface with Github, Google Drive, or a local storage drive.
+will need to get up and running with Jupyter notebooks, but you are welcome to use any other method of running Python code as well. 
 
 I intend for everyone to use Github to manage their code. (However, as always, if this workflow places an undue burden on you for any reason, talk to me! We'll find a solution.) As you become involved with computational or analytic activities in the professional world, you'll find that people expect you to manage your code and documents professionally, too. The standard way of doing so is with `git` repositories ("repos"), often stored online on Github for easy sharing, distribution, and collaboration. You should make a Github account if you do not already have one; as with Slack, you are welcome to use a throwaway email address if you do not want to share your primary one. (However, both Slack and Github are very standard tools -- if you think you might have involvement with any technical field or hobby in the future, I recommend making an account that you'll be able to easily use for many years in many contexts.) 
 
-If you get stuck with the technological aspects of the class, don't be afraid to check the guides that I've posted [here](http://evantilton.com/guides/), ask for help on Slack, come see me, or Google it (as should usually be your first recourse).
+If you get stuck with the technological aspects of the class, don't be afraid to ask for help on Slack, come see me, or Google it (as should usually be your first recourse).
 
 ## Grading and Exams
 
@@ -150,11 +143,10 @@ Your course grade is determined as shown:
 
 | Activity        |            Date               | Percent of Grade |
 |-----------------|:-----------------------------:|-----------------:|
-| Exam 1          | Wednesday, 02 /19 (tentative) |              15% |
-| Exam 2          | Wednesday, 04 /01 (tentative) |              15% |
-| Final Exam      |       April 29 @ 10:10am      |              15% |
-| Homework        |           usually Fridays     |              35% |
-| Participation   |           all                 |              20% |
+| Midterm          | TBD  |              10% |
+| Final Exam      |       TBD, after Thanksgiving      |              15% |
+| Homework/Labs        |           various     |              60% |
+| Participation   |           all                 |              15% |
 
 Owing to the small class size and the inaccuracy of predicting grade distributions on upper division physics exam problems, the final mapping of letter grades to numerical scores will likely be revised at the end of the semester. However, as a rough guide, you should expect score distributions approximately as follows:
 
@@ -179,15 +171,11 @@ I reserve the right to assign higher grades than would result from this table ac
 
 You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. During class, we will have concept questions, tutorials, and other activities that are graded for participation (not correctness). 
 
-Each day, one student will be begin class by summarizing and briefly teaching the assigned reading (which all students are assumed to have read in detail). These summaries should last approximately five minutes, and they should be active teaching that encourages dialogue among the class, perhaps with questions or examples. They should never exceed ten to fifteen minutes - you are responsible for controlling the timing of the class during the presentation. You will receive a grade each full ‘cycle’ of students; half of the grade will be based on your presentation while the other half will be awarded for good-faith, well-prepared engagement when not leading the class. Your presentation day will be graded on a 1-5 scale on both “Presentation” (how effectively did you communicate the material?) and “Preparation” (how well prepared were you?).
-
-At the end of the semester, you will choose a longer "special topic" to study and teach in more detail. Details will be provided in class.
-
 There will be a brief reading survey due prior to each class which will also contribute a small amount to this category. I reserve the right to give unannounced in-class quizzes; it is *highly* unlikely that this will happen if the class is mostly keeping up with the reading and homework, but if significant non-participation occurs I will begin giving them without warning (I have never had to do this so far in my teaching career -- let's keep it that way!). There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
 
 ### Exams
 
-There will be two in-class midterm exams and a final exam. All exams are cumulative, although midterms will primarily focus on the material introduced since the last midterm. No calculators or other electronics devices are allowed during exams. Details about exam format will be given in class.
+There will be one midterm exam and a final exam. All exams are cumulative. Details about exam format will be given in class.
 
 All exams are cumulative of everthing covered so far in the course, as well as mathematics through calculus and the introductory physics sequence. Physics is inherently cumulative, always.
 
