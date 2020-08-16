@@ -1,5 +1,5 @@
 ---
-permalink: /ph447s20/syllabusappendix/
+permalink: /ph447f20/syllabusappendix/
 title: "Syllabus Appendix"
 excerpt: ""
 author_profile: true
