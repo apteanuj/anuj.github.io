@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "PH447 - Optics, Observations, and Data Analysis - Fall 2020 - 4 credits"
-permalink: /ph447s20/
+permalink: /ph447f20/
 author_profile: true
 ---
 
@@ -18,7 +18,7 @@ author_profile: true
 	- Other sites you'll likely use:
 		- [Github](https://github.com)
 <!--		- [Our Spotify playlist](https://open.spotify.com/playlist/0Q3VleFxIlnKZMoeC75aNn?si=2SJ0CA--T6yujl5NWM1Aqw) - feel free to add stuff -->
--   Class Meetings: MWF 11:00 AM - 11:50 AM (Clarke Hall, 406)
+-   Class Meetings: Virtual or outdoor
 -   Office hours: W: 2-4pm, Th: 12-2pm, or by appointment – message me on Slack! Via Zoom whenever possible this semester.
 
 
