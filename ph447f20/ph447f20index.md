@@ -12,7 +12,7 @@ author_profile: true
 	- Please let us know how you would prefer to be addressed and what pronouns you use.
 -   Contact: <etilton@regis.edu>; office: Carroll 108C (inside the Math & Physics suite); office phone: 3034584166 (unreliable)
 -   Course web pages:
-	- [http://evantilton.com/ph465s20](http://evantilton.com/ph447f20) - Syllabus
+	- [http://evantilton.com/ph447f20](http://evantilton.com/ph447f20) - Syllabus
 	- [WorldClass](https://worldclass.regis.edu) - Grades, reading surveys
 	- [Our Slack workspace](https://ph447s20.slack.com) - Collaboration, solutions, etc. [(Invitation link to join the workspace)](https://join.slack.com/t/ph447f20/shared_invite/zt-gox5z00x-YyOP3hVwwdFD6M1EUFI0Dg). Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
 	- Other sites you'll likely use:
@@ -24,9 +24,7 @@ author_profile: true
 
 
 ## Overview
-This upper-division course will cover statistical mechanics and thermodynamics, which together comprise the broader category of thermal physics. We will discover that much of this field boils down to understanding two concepts in detail: entropy and free energy. We will have three meetings per week and weekly homework. 
-
-Thermal physics is one of the most general and reliable realms of knowledge in the physical sciences. We will discover that a handful of relatively simple laws and concepts apply equally well to exotic phenomena such as black holes and Bose-Einstein condensates, to every-day practical applications such as cooking or refrigeration, or to chemical reactions and biological processes. Along the way, we will encounter computational tools common to the physical and mathematical sciences, most notably Python. As Goldstein & Goldstein put it in their book *The Refrigerator and the Universe*, "Thermodynamics has something to say about almost everything but does not tell us everything about anything."
+This upper-division course will cover how one infers scientific knowledge from optical observations. It will include coverage of optics, observational limitations, and statistical techniques. As an analysis lab, experience with version control, Python programming, and analysis methods will be provided.
 
 
 ## Tentative schedule
