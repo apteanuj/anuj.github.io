@@ -30,6 +30,9 @@ This upper-division course will cover how one infers scientific knowledge from o
 ## Tentative schedule
 TBD
 
+## COVID-19 notice
+This course will be some combination of virtual via Zoom and in-person at outdoor locations, as described in class. All students are expected to follow any safety instructions from the university or the instructor immediately.
+
 
 ## Prerequisites
 Students in PH447 should already have taken the PH304 sequence (introductory physics with calculus). **Proficiency in single-variable calculus is assumed.** Calculus will be used liberally in all aspects of the course, and it will not be significantly reviewed or re-taught. You should be comfortable using and interpreting derivatives and integrals before starting any upper division physics courses. We will also encounter series and multivariate calculus, though extreme proficiency in these topics will not be assumed. However, exposure to the topics of Calculus III, either in the past or concurrently with this course, will be an advantage.
@@ -102,7 +105,7 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 
 - My lectures notes, which will be updated as we go. The currently available sections are at: [all_lectures.pdf](./all_lectures.pdf)
 
--  Waal & Jenkins, [*Practical Statistics for Astronomers*](https://www.amazon.com/Practical-Statistics-Astronomers-Cambridge-Observing/dp/0521732492). This book is great. I've spent a lot of time reading stat mech books, because I don't want to make you buy something that isn't worth it. This one is worth it, so please obtain a copy quickly, and give it your full attention. We will use this text immediately, so you should obtain it as soon as possible. It is available at the Regis bookstore, as well as most online booksellers. Be sure to amend your book according to the errata at http://physics.weber.edu/thermal/.
+-  Wall & Jenkins, [*Practical Statistics for Astronomers*](https://www.amazon.com/Practical-Statistics-Astronomers-Cambridge-Observing/dp/0521732492). It is available at the Regis bookstore, as well as most online booksellers. 
 
 
 ## Course Activities
@@ -116,6 +119,8 @@ readings in advance and I will not simply lecture aloud about stuff you should h
 and effort to carefully read and follow the text. 
 
 ### Homework
+
+The distinction between labs and homework will be somewhat fluid owing to the unusual format.
 
 There will be a homework due intermittently. Homework is arguably the most important part of a physics class – it is where you learn to use the concepts. You should start homework early and work on it consistently. You should treat the assigned problems as the bare minimum number of problems that one could plausibly need to solve to learn material; you should almost certainly be solving more problems than what is assigned for each topic.
 
