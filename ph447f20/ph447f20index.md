@@ -4,7 +4,7 @@ title: "PH447 - Optics, Observations, and Data Analysis - Fall 2020 - 4 credits"
 permalink: /ph447f20/
 author_profile: true
 ---
-  
+ 
 ## Contact Information
 
 -   Instructor: [Prof. Evan Tilton](http://evantilton.com) (he/him/his)
