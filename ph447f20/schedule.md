@@ -8,7 +8,7 @@ author_profile: true
 This schedule is tentative. We will deviate from it as necessary as the course proceeds.
 
 **Update, 2020-03-08: Note that we have fallen behind this schedule due to the snow day. The dates are *not* current. The assignments I give in class are most accurate.**
-
+ 
 
 | Date              |                 Topic                 | Schroeder Reading Due | Suggested Moore Reading Due    |
 |-------------------|---------------------------------------|-------------------|------------------------------------|
