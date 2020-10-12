@@ -73,7 +73,8 @@ PH 465 covers material at a high level of conceptual and mathematical sophistica
 PH 465 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
 
 ### How to Succeed in this Course
-The topics that we will cover in PH~465 are among the greatest intellectual achievements of humans. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:- Read the chapter before the lecture. Read extremely carefully; do not skim. 
+The topics that we will cover in PH~465 are among the greatest intellectual achievements of humans. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:
+- Read the chapter before the lecture. Read extremely carefully; do not skim. 
 - Read with a pen and notebook; read very actively. Take notes while you read, and work out sample problems and steps of algebra skipped by the author.
 - Attend **every** class. 
 - Don't attempt the homework without studying the chapter(s) first. 
