@@ -21,7 +21,7 @@ author_profile: true
 -   Class Meetings: Virtual or outdoor
 -   Office hours: W: 2-4pm, Th: 12-2pm, or by appointment – message me on Slack! Via Zoom whenever possible this semester.
 
-
+ 
 
 ## Overview
 This upper-division course will cover how one infers scientific knowledge from optical observations. It will include coverage of optics, observational limitations, and statistical techniques. As an analysis lab, experience with version control, Python programming, and analysis methods will be provided.
