@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Contact Information
-
+ 
 -   Instructor: [Prof. Evan Tilton](http://evantilton.com) (he/him/his)
 	- Call me anything you want; I'm not picky. Call me Evan, Prof. Tilton, Dr. Evan, Hey-You...literally whatever you are comfortable with.
 	- Please let us know how you would prefer to be addressed and what pronouns you use.
