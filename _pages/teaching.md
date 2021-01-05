@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Spring 2021, Regis Univsersity
+* [PH304B, Physics II with Calculus. Two sections.](../ph304bs21/)
+* [PH410, Electricity & Magnetism](../ph410f19/)
 
 ## Fall 2020, Regis Univsersity
 * PH475, Physics capstone project, co-taught with F. Gray.
