@@ -12,11 +12,11 @@ author_profile: true
 	- Please let us know how you would prefer to be addressed and what pronouns you use.
 -   Contact: <etilton@regis.edu>; office: Carroll 108C (inside the Math & Physics suite); office phone: 3034584166 (unreliable)
 -   Course web pages:
-	- [http://evantilton.com/ph304bs20](http://evantilton.com/ph304s21) - Syllabus
+	- [http://evantilton.com/ph304bs21](http://evantilton.com/ph304s21) - Syllabus
 	- [WorldClass](https://worldclass.regis.edu) - Grades, reading surveys
 	- [Our Slack workspace](https://ph304bs21.slack.com) - Collaboration, solutions, etc. [(Invitation link to join the workspace)](?????). Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
--   Class Meetings: MWF, 10:00 AM - 10:50 AM or 1PM - 1:50 PM in SCI 130
--   Office hours: 1pm-3pm on M and W. But I have an open door policy, and am available more often than just these times. You're welcome to talk to me any time I'm available. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me in advance to make sure I'm available. **In general, I am always eager to help you with anything I can!**
+-   Class Meetings: MWF, 10:00 AM - 10:50 AM or 1PM - 1:50 PM 
+-   Office hours: 2pm-4pm on M and W. But I have an open door policy, and am available more often than just these times. You're welcome to talk to me any time I'm available. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me in advance to make sure I'm available. **In general, I am always eager to help you with anything I can!**
 
 
 
@@ -28,7 +28,7 @@ and that charges in motion generate *magnetic fields*; the fields then cause for
 
 ## Tentative schedule of topics and student presentations.
 
-[A *very* rough schedule of the course can be found here; it includes approximate dates of student presentations.](./schedule/)
+[A *very* rough schedule of the course can be found here.](./schedule/)
 
 You can sign up for your student presentation at one of the two links below. **Be sure to sign up in the correct section.**
  - [Sign up for the 10am section (RU01)](???)
@@ -113,14 +113,14 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 ## Course Materials
 
 We'll be using **Volume II** of the **fourth edition** of *Matter & Interactions* by Chabay and Sherwood. We will be reading from this book right away. You are welcome to obtain this book in any format that you prefer -- ebook or printed, though I find that most students do better with a physical book. You are also welcome to get the full version of *Matter & Interactions* that combines Volumes I and II; sometimes used copies of this version are cheapest, and it is the only version that comes in hardcover format. (Volume I is just the Physics 1 portion of the book, while Volume II is the material we will be covering.) I suggest investigating all purchasing/renting options, though, to make sure you get the format you prefer for the lowest price. In particular, check out these relevant websites:
-- For Volume II (the fourth edition of which should have a white and gray cover with lime-green title font):
-	- [The relevant Amazon pages](https://www.amazon.com/Matter-Interactions-II-Electric-Magnetic/dp/1118914503/)
-	- [The relevant publisher ebook/paperback page](https://www.wiley.com/en-us/Matter+and+Interactions%2C+Volume+II%3A+Electric+and+Magnetic+Interactions%2C+4th+Edition-p-9781119113355)
-	- [The relevant publisher looseleaf, unbound version for placing in a 3 ring binder](https://www.wiley.com/en-us/Matter+and+Interactions%2C+Volume+2%3A+Electric+and+Magnetic+Interactions%2C+4th+Edition-p-9781119462033)
-- For the full 2-semester version that covers Physics I and II (the fourth edition of which should have a white and gray cover with light-blue title font):
-	- [The relevant amazon pages](https://www.amazon.com/Matter-Interactions-Ruth-W-Chabay/dp/1118875869)
-	- [The publisher print edition page](https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781118875865)
-	- [The publisher ebook page](https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781119029083)
+For Volume II (the fourth edition of which should have a white and gray cover with lime-green title font):
+- The relevant Amazon pages: https://www.amazon.com/Matter-Interactions-II-Electric-Magnetic/dp/1118914503/ 
+- The relevant publisher looseleaf, unbound version for placing in a 3 ring binder: https://www.wiley.com/en-us/Matter+and+Interactions%2C+Volume+2%3A+Electric+and+Magnetic+Interactions%2C+4th+Edition-p-9781119462033
+
+For the full 2-semester version that covers Physics I and II (the fourth edition of which should have a white and gray cover with light-blue title font):
+- The relevant Amazon pages: https://www.amazon.com/Matter-Interactions-Ruth-W-Chabay/dp/1118875869
+- The publisher print edition page: https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781118875865
+- The publisher ebook page: https://www.wiley.com/en-us/Matter+and+Interactions%2C+4th+Edition-p-9781119080817
 	
 You do not need any online access code to go with the textbook -- you only need access to the text itself for reading.
 
@@ -159,20 +159,12 @@ This grading system rewards good-faith efforts at engaging with the problems. Be
 
 ### Participation 
 
-You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. During class, we will have concept questions, problems, and other activities that are graded for participation (not correctness). You will also give one presentation.
-
-There will be a brief reading survey due prior to each class which will also contribute a small amount to this category. Additionally, we will use Plickers to answer questions in class -- these will be graded for participation but not correctness.
-
-You will be asked to give a "keynote" teaching presentation that will help you learn to speak more ﬂuently in the technical language of
-physics, and they will help to create a culture of participation and community in the class. It should be approximately 5 to 10
-minutes long, and it should introduce a new concept and set the stage for class discussion and problem-solving. I will provide a list
-of speciﬁc topics and dates for these presentations and ask you to sign up for one that interests you. You will need to prepare visual
-slides to accompany your presentations. I expect that presentation grades should generally be high, because your presentations will
-be good. If you give a clear, complete, factually correct, and on-topic presentation with organized slides, you will receive full credit.
-
-I reserve the right to give unannounced in-class quizzes; it is *highly* unlikely that this will happen if the class is mostly keeping up with the reading and homework, but if dramatic non-participation occurs I will begin giving them without warning (I have never had to do this so far in my teaching career -- let's keep it that way!). There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
+TBD
+<!--You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. During class, we will have concept questions, problems, and other activities that are graded for participation (not correctness). You will also give one presentation. There will be a brief reading survey due prior to each class which will also contribute a small amount to this category. Additionally, we will use Plickers to answer questions in class -- these will be graded for participation but not correctness. You will be asked to give a "keynote" teaching presentation that will help you learn to speak more ﬂuently in the technical language of physics, and they will help to create a culture of participation and community in the class. It should be approximately 5 to 10 minutes long, and it should introduce a new concept and set the stage for class discussion and problem-solving. I will provide a list of speciﬁc topics and dates for these presentations and ask you to sign up for one that interests you. You will need to prepare visual slides to accompany your presentations. I expect that presentation grades should generally be high, because your presentations will be good. If you give a clear, complete, factually correct, and on-topic presentation with organized slides, you will receive full credit. I reserve the right to give unannounced in-class quizzes; it is *highly* unlikely that this will happen if the class is mostly keeping up with the reading and homework, but if dramatic non-participation occurs I will begin giving them without warning (I have never had to do this so far in my teaching career -- let's keep it that way!). There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.-->
 
 ### Exams
+
+**The information below pertains to the possibility of in-person exams. Remote exams, if necessary, will have different formats and rules.**
 
 Tentative, approximate exam dates are given on the schedule in this syllabus. Firm exam dates will be announced 2-3 classes in advance.  These exams will test your understanding of the content from assigned readings, class time, and homework problems.  Exams could include a variety of types of questions, including but necessarily not limited to: 
 - Qualitative, conceptual questions that may be either multiple choice, multiple choice with explanation, short answer, etc. These types of questions will be similar to the conceptual questions in the textbook, conceptual questions I ask you in class or on homework, and in-class activities.
@@ -195,12 +187,12 @@ Your course grade is determined as shown:
 
 | Activity        |            Date               | Percent of Grade |
 |-----------------|:-----------------------------:|-----------------:|
-| Exam 1          | Wednesday, 02/12 (tentative)  |              10% |
-| Exam 2          | Wednesday, 03/18 (tentative)  |              10% |
-| Exam 3          | Wednesday, 04/08 (tentative)  |              10% |
-| Final Exam      | As scheduled by registrar     |              20% |
-| Homework        |           usually Fridays     |              35% |
-| Participation   |           all                 |              15% |
+<!--| Exam 1          | Wednesday, 02/12 (tentative)  |              10% |-->
+<!--| Exam 2          | Wednesday, 03/18 (tentative)  |              10% |-->
+<!--| Exam 3          | Wednesday, 04/08 (tentative)  |              10% |-->
+<!--| Final Exam      | As scheduled by registrar     |              20% |-->
+<!--| Homework        |           usually Fridays     |              35% |-->
+<!--| Participation   |           all                 |              15% |-->
 
 You should expect score distributions approximately as follows:
 
