@@ -32,7 +32,7 @@ Excused absences will be granted in compliance with Regis College policies. Grad
 If unforeseen circumstances occur, and a student is unable to complete the required work for the course, an “Incomplete” grade may be submitted.  A request must be made in writing and approved by the instructor.  The request will include a timeline and plan for completing the work.  The incomplete grade will reflect the grade earned in the course to this point ( an “I” with whatever grade earned, including the missing work: an IF or ID or IC) and will only change when the plan is completed. Please see the University Catalog for more of the full policy: “A grade of an Incomplete or “I” denotes that the required work for the course is incomplete due to **unforeseen** circumstances” (emphasis added), which means “an accident, an illness, a death or major life transaction has occurred.”
 
 ## Key dates
-The add/drop deadline is January 21. The withdrawal deadline is April 5. Midterm grades are due March 12. 
+The add/drop deadline is ?. The withdrawal deadline is ?. Midterm grades are due March 11. 
 
 ## Academic Honor Code
 All members of the Regis University community exhibit the qualities of honesty, loyalty and trustworthiness in all academic activities, holding themselves and each other accountable for the integrity of the learning community.  Regis University students are committed to the highest standards of academic integrity and assume full and complete responsibility for maintaining those standard in the academic environment.
