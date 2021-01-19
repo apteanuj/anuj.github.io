@@ -19,3 +19,5 @@ You should have [downloaded and installed the Anaconda Python distribution](http
 4. Again on the "Home" tab of the navigator, there should be a button to "Install" Jupyter Notebook. Do so. It may take several minutes.
 
 **Whenever you work on Python code for this class, you should do so with this environment selected.** That is, everytime that you open the Anaconda Navigator to work on this class, you should use the pulldown menu to select this environment. This will ensure that you continue to have access to the packages you need.
+
+To edit a Jupyter notebook, select the environment, then click the Jupyter notebook button. That will open your web browser to a page that lets you navigate to and open python files.
