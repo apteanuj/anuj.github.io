@@ -14,9 +14,9 @@ author_profile: true
 -   Course web pages:
 	- [http://evantilton.com/ph304bs21](http://evantilton.com/ph304s21) - Syllabus
 	- [WorldClass](https://worldclass.regis.edu) - Grades, reading surveys
-	- [Our Slack workspace](https://ph304bs21.slack.com) - Collaboration, solutions, etc. [(Invitation link to join the workspace)](?????). Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
+	- [Our Slack workspace](https://ph304bs21.slack.com) - Collaboration, solutions, etc. <!--[(Invitation link to join the workspace)](?????).--> Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
 -   Class Meetings: MWF, 10:00 AM - 10:50 AM or 1PM - 1:50 PM 
--   Office hours: 2pm-4pm on M and W. But I have an open door policy, and am available more often than just these times. You're welcome to talk to me any time I'm available. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me in advance to make sure I'm available. **In general, I am always eager to help you with anything I can!**
+-   Office hours: 2pm-3pm on Monday, 2pm-4pm on Wednesday, and 2pm-3pm on Thursday. But I have an open door policy, and am available more often than just these times. You're welcome to talk to me any time I'm available. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me in advance to make sure I'm available. **In general, I am always eager to help you with anything I can!**
 
 
 
@@ -193,11 +193,11 @@ Your course grade is determined as shown:
 | Activity        |            Date               | Percent of Grade |
 |-----------------|:-----------------------------:|-----------------:|
 <!--| Exam 1          | Wednesday, 02/12 (tentative)  |              10% |-->
-<!--| Exam 2          | Wednesday, 03/18 (tentative)  |              10% |-->
-<!--| Exam 3          | Wednesday, 04/08 (tentative)  |              10% |-->
+<!--| Exam 2          | Wednesday, 03/18 (tentative)  |              15% |-->
+<!--| Exam 3          | Wednesday, 04/08 (tentative)  |              15% |-->
 <!--| Final Exam      | As scheduled by registrar     |              20% |-->
-<!--| Homework        |           usually Fridays     |              35% |-->
-<!--| Participation   |           all                 |              15% |-->
+<!--| Homework        |           usually Fridays     |              30% |-->
+<!--| Participation   |           all                 |              10% |-->
 
 You should expect score distributions approximately as follows:
 
