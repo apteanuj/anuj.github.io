@@ -26,13 +26,13 @@ In this course, we will discuss the behavior of electric charges.  We will see t
 and that charges in motion generate *magnetic fields*; the fields then cause forces on other charges.  We will learn how to calculate these quantities, and we will see how these electric and magnetic fields can store and transfer energy.  Furthermore, *light* can be  viewed as a *wave* that propagates through the electric and magnetic fields; we will conclude the course by contrasting this wave picture of light with the photon model that describes light as a particle.
 
 
-## Tentative schedule of topics and student presentations.
+## Tentative schedule of topics 
 
 [A *very* rough schedule of the course can be found here.](./schedule/)
 
-You can sign up for your student presentation at one of the two links below. **Be sure to sign up in the correct section.**
- - [Sign up for the 10am section (RU01)](???)
- - [Sign up for the 1pm section (RU03)](???)
+<!--You can sign up for your student presentation at one of the two links below. **Be sure to sign up in the correct section.**-->
+<!-- - [Sign up for the 10am section (RU01)](???)-->
+<!-- - [Sign up for the 1pm section (RU03)](???)-->
 
 
 ## Prerequisites
@@ -164,8 +164,7 @@ If your solution reflects a lack of careful attention in general, due to problem
 
 ### Participation 
 
-TBD
-<!--You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. During class, we will have concept questions, problems, and other activities that are graded for participation (not correctness). You will also give one presentation. There will be a brief reading survey due prior to each class which will also contribute a small amount to this category. Additionally, we will use Plickers to answer questions in class -- these will be graded for participation but not correctness. You will be asked to give a "keynote" teaching presentation that will help you learn to speak more ﬂuently in the technical language of physics, and they will help to create a culture of participation and community in the class. It should be approximately 5 to 10 minutes long, and it should introduce a new concept and set the stage for class discussion and problem-solving. I will provide a list of speciﬁc topics and dates for these presentations and ask you to sign up for one that interests you. You will need to prepare visual slides to accompany your presentations. I expect that presentation grades should generally be high, because your presentations will be good. If you give a clear, complete, factually correct, and on-topic presentation with organized slides, you will receive full credit. I reserve the right to give unannounced in-class quizzes; it is *highly* unlikely that this will happen if the class is mostly keeping up with the reading and homework, but if dramatic non-participation occurs I will begin giving them without warning (I have never had to do this so far in my teaching career -- let's keep it that way!). There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.-->
+You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. During class, we will have concept questions, problems, and other activities that are graded for participation (not correctness). <!--You will also give one presentation. There will be a brief reading survey due prior to each class which will also contribute a small amount to this category. Additionally, we will use Plickers to answer questions in class -- these will be graded for participation but not correctness. You will be asked to give a "keynote" teaching presentation that will help you learn to speak more ﬂuently in the technical language of physics, and they will help to create a culture of participation and community in the class. It should be approximately 5 to 10 minutes long, and it should introduce a new concept and set the stage for class discussion and problem-solving. I will provide a list of speciﬁc topics and dates for these presentations and ask you to sign up for one that interests you. You will need to prepare visual slides to accompany your presentations. I expect that presentation grades should generally be high, because your presentations will be good. If you give a clear, complete, factually correct, and on-topic presentation with organized slides, you will receive full credit.--> I reserve the right to give unannounced in-class quizzes; it is *highly* unlikely that this will happen if the class is mostly keeping up with the reading and homework, but if dramatic non-participation occurs I will begin giving them without warning (I have never had to do this so far in my teaching career -- let's keep it that way!). There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
 
 ### Exams
 
