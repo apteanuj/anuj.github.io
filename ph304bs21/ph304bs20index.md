@@ -191,12 +191,10 @@ Your course grade is determined as shown:
 
 | Activity        |            Date               | Percent of Grade |
 |-----------------|:-----------------------------:|-----------------:|
-<!--| Exam 1          | Wednesday, 02/12 (tentative)  |              10% |-->
-<!--| Exam 2          | Wednesday, 03/18 (tentative)  |              15% |-->
-<!--| Exam 3          | Wednesday, 04/08 (tentative)  |              15% |-->
-<!--| Final Exam      | As scheduled by registrar     |              20% |-->
-<!--| Homework        |           usually Fridays     |              30% |-->
-<!--| Participation   |           all                 |              10% |-->
+| Midterms        | tentatively 2/19, 3/19, & 4/9 |              35% |
+| Final Exam      | As scheduled by registrar     |              20% |
+| Homework        |           usually Fridays     |              35% |
+| Participation   |           all                 |              10% |
 
 You should expect score distributions approximately as follows:
 
