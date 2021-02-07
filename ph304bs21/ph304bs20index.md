@@ -191,7 +191,7 @@ Your course grade is determined as shown:
 
 | Activity        |            Date               | Percent of Grade |
 |-----------------|:-----------------------------:|-----------------:|
-| Midterms        | tentatively 2/19, 3/19, & 4/9 |              35% |
+| Midterms        | tentatively 2/22, 3/22, & 4/12 |              35% |
 | Final Exam      | As scheduled by registrar     |              20% |
 | Homework        |           usually Fridays     |              35% |
 | Participation   |           all                 |              10% |
