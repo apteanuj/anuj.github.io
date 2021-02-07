@@ -22,8 +22,8 @@ This schedule is tentative. We will deviate from it as necessary as the course p
 | Friday, February 12, 2021    | 16.1-2 Electric potential                        |
 | Monday, February 15, 2021    | 16.3-7 Potential differences along paths         |
 | Wednesday, February 17, 2021 | 16.8-10 Dielectrics and energy storage           |
-| Friday, February 19, 2021    | Exam 1                                           |
-| Monday, February 22, 2021    | 17.1-4 Magnetic fields from moving charges       |
+| Friday, February 19, 2021    | 17.1-4 Magnetic fields from moving charges                     |
+| Monday, February 22, 2021    | Exam 1                             |
 | Wednesday, February 24, 2021 | 17.5-8 Magnetic fields from currents             |
 | Friday, February 26, 2021    | buffer                                           |
 | Monday, March 1, 2021        | 17.9-12 Dipoles and bar magnets                  |
@@ -34,17 +34,17 @@ This schedule is tentative. We will deviate from it as necessary as the course p
 | Friday, March 12, 2021       | 19.1-4 Resistors and capacitors                  |
 | Monday, March 15, 2021       | 19.5-8 Time dependence in circuits               |
 | Wednesday, March 17, 2021    | buffer                                           |
-| Friday, March 19, 2021       | Exam 2                                           |
-| Monday, March 22, 2021       | 20.1-3 Magnetic forces                           |
+| Friday, March 19, 2021       | 20.1-3 Magnetic forces                                           |
+| Monday, March 22, 2021       | Exam 2                           |
 | Wednesday, March 24, 2021    | 20.4-6 Hall Effect, Motional EMF, and Relativity |
 | Friday, March 26, 2021       | 20.7-9 Magnetic torque; Motors and generators    |
 | Monday, March 29, 2021       | 21.1-5 Gauss’s Law                               |
 | Wednesday, March 31, 2021    | 21.6-7 Ampère’s Law                              |
 | Friday, April 2, 2021        | no class                                         |
-| Monday, April 5, 2021        | 22.1-6 Faraday’s Law                             |
-| Wednesday, April 7, 2021     | buffer                                           |
-| Friday, April 9, 2021        | Exam 3                                           |
-| Monday, April 12, 2021       | 23.1-3 Electromagnetic radiation                 |
+| Monday, April 5, 2021        | no class                             |
+| Wednesday, April 7, 2021     | 22.1-6 Faraday’s Law                                           |
+| Friday, April 9, 2021        | 23.1-3 Electromagnetic radiation                                           |
+| Monday, April 12, 2021       | Exam 3                 |
 | Wednesday, April 14, 2021    | 23.4-6 Electromagnetic waves                     |
 | Friday, April 16, 2021       | 23.9-11 Geometric optics                         |
 | Monday, April 19, 2021       | S3.1-3 Interference and diffraction              |
