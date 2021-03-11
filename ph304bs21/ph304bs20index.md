@@ -200,18 +200,18 @@ You should expect score distributions approximately as follows:
 
 | Letter Grade | Description | Numerical Grade |
 |-----------------|:----------------------------:|-----------------:|
-|A | Outstanding scholarship. |>88|
-|A-||85 – 88|
-|B+||82 – 84.99|
-|B|Strong command of material.|78 – 81.99 |
-|B-||75 – 77.99|
-|C+||72 – 74.99|
-|C|Satisfactory command of material.|68 – 71.99 |
-|C-||65 – 67.99 |
-|D+||62 – 64.99 |
-|D|Unsatisfactory command of material.|58 – 61.99|
-|D-||55 – 57.99 |
-|F|No credit.|<55 |
+|A | Outstanding scholarship. |>87|
+|A-||84 – 87|
+|B+||81 – 83.99|
+|B|Strong command of material.|77 – 80.99 |
+|B-||74 – 76.99|
+|C+||71 – 73.99|
+|C|Satisfactory command of material.|67 – 70.99 |
+|C-||64 – 66.99 |
+|D+||61 – 63.99 |
+|D|Unsatisfactory command of material.|57 – 60.99|
+|D-||54 – 56.99 |
+|F|No credit.|<54 |
 
 I reserve the right to assign higher grades than would result from this table according to my judgment of the difficulty of the assignments and exams. That is, I will only deviate from this table in such a way that benefits you; no final grades will be adjusted or curved downward relative to the above table under any circumstance. For example, if everyone earned above an 88%, then everyone would get an A, so it is in your interest to work together and help each other learn physics. 
 
