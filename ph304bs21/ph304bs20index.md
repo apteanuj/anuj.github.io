@@ -203,15 +203,15 @@ You should expect score distributions approximately as follows:
 |A | Outstanding scholarship. |>87|
 |A-||84 – 87|
 |B+||81 – 83.99|
-|B|Strong command of material.|77 – 80.99 |
-|B-||74 – 76.99|
-|C+||71 – 73.99|
-|C|Satisfactory command of material.|67 – 70.99 |
-|C-||64 – 66.99 |
-|D+||61 – 63.99 |
-|D|Unsatisfactory command of material.|57 – 60.99|
-|D-||54 – 56.99 |
-|F|No credit.|<54 |
+|B|Strong command of material.|76 – 80.99 |
+|B-||73 – 75.99|
+|C+||70 – 72.99|
+|C|Satisfactory command of material.|66 – 69.99 |
+|C-||63 – 65.99 |
+|D+||60 – 62.99 |
+|D|Unsatisfactory command of material.|56 – 59.99|
+|D-||53 – 55.99 |
+|F|No credit.|<53 |
 
 I reserve the right to assign higher grades than would result from this table according to my judgment of the difficulty of the assignments and exams. That is, I will only deviate from this table in such a way that benefits you; no final grades will be adjusted or curved downward relative to the above table under any circumstance. For example, if everyone earned above an 88%, then everyone would get an A, so it is in your interest to work together and help each other learn physics. 
 
