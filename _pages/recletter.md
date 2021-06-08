@@ -4,7 +4,7 @@ title: "Need a Letter of Recommendation?"
 permalink: /recletter/
 author_profile: true
 ---
-
+ 
 I am very happy to write recommendation letters, but if you want me to write a letter or letters for you there are several things that I need. I realize that the list is rather long, but just remember that the more information you can give me, the better of a letter I can write!
 
 # Key points:
