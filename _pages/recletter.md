@@ -19,7 +19,7 @@ Regardless, here are the things I need to write the best letter that I can:
 # Information I need to write a letter:
 I need the following information, in electronic form (e.g., in pdf/MS-word/text-file/body-of-email form) that is sent to me in a single email. Please do not give me paper copies - it's far easier for me to keep track of digital copies!
 
-- Your full name along with the name that you call yourself and the pronouns that you use. [Why do I ask for your pronouns? See here.](https://www.mypronouns.org/)
+- Your full name along with the name that you call yourself and the pronouns that you would want used in your application materials. [Why do I ask for your pronouns? See here.](https://www.mypronouns.org/)
 - A description of **what you are applying for**: is it some sort of academic honor? Medical school? Dental School? Graduate school? This information is necessary so that I can provide the correct level and variety of detail.
 - When you ask me for a letter, please explain why you are asking **me** to write a letter for you (i.e., why *me* specifically?) and **who else will be writing letters for you**. This helps me to adjust the content of my letter appropriately so that it works well with the rest of your application materials.
 - A list of schools (or whatever) to which you will be applying and due dates for the letters.
