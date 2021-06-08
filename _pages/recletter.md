@@ -27,7 +27,7 @@ I need the following information, in electronic form (e.g., in pdf/MS-word/text-
 - If you are applying to med/dental/vet school, do you have a specialization in mind at this time? (For example, oncology, pediatric medicine, large-animal medicine, reconstructive dentistry...) What made you decide on this specialization?
 - A copy of your resume and/or CV. This helps me double-check small details in my letter for accuracy, and it also might remind me of additional good things to talk about in my letter.
 - If there's a specific person to whom the letter should be addressed, be sure to give the name and title of that person who will receive the completed letter, if relevant. This is generally not necessary for generic grad school applications, but might be relevant for jobs working with a particular person, very niche scholarships, etc.
-- If there are any addition forms that need to be filled out or signed beyond the standard letter-submission process, please provide them with information about you (your address, birth date, etc.) already filled in. (This is not relevant for most letter submissions.)
+- If there are any additional forms that need to be filled out or signed beyond the standard letter-submission process, please provide them with information about you (your address, birth date, etc.) already filled in. (This is not relevant for most letter submissions.)
 
 ### In addition, I strongly recommend sending me the following materials as well:
 These are things that I don't necessarily need when writing a letter, but if provided, they may help me write a letter that better ties in to your other application materials.
