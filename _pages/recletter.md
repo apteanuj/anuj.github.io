@@ -5,7 +5,7 @@ permalink: /recletter/
 author_profile: true
 ---
  
-I am very happy to write recommendation letters, so please don't be shy about asking for one! but if you want me to write a letter or letters for you there are several things that I need. I realize that the list is somewhat long, but just remember that the more information you can give me, the better of a letter I can write!
+I am very happy to write recommendation letters, so please don't be shy about asking for one! but if you want me to write a letter or letters for you there are several things that I need. I realize that the list is somewhat long, but just remember that the more information you can give me, the better a letter I can write!
 
 Please also note that when you ask me to write a letter for you, I will be rather blunt about how strong a letter I think I can write for you. This is just to make sure that you are thinking about who the best letter writer would be for your personal situation. I might, for example, say that I can write you a very strong letter -- which is great! On the otherhand, I might tell you that the letter I could write for you wouldn't be very in-depth. Remember that even if I say something like that, it doesn't mean that I'm saying I won't write it, and it also doesn't mean you aren't a strong applicant and awesome person. It might, for example, just mean we didn't spend enough time together for me to have a large base of detailed knowledge about your personal strenghs.
 
