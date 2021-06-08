@@ -25,7 +25,7 @@ I need the following information, in electronic form (e.g., in pdf/MS-word/text-
 - If there's a specific person to whom the letter should be addressed, be sure to give the name and title of that person who will receive the completed letter, if relevant. This is generally not necessary for generic grad school applications, but might be relevant for jobs working with a particular person, very niche scholarships, etc.
 - If there are any addition forms that need to be filled out or signed beyond the standard letter-submission process, please provide them with information about you (your address, birth date, etc.) already filled in. (This is not relevant for most letter submissions.)
 
-## In addition, I strongly recommend sending me the following materials as well:
+### In addition, I strongly recommend sending me the following materials as well:
 These are things that I don't necessarily need when writing a letter, but if provided, they may help me write a letter that better ties in to your other application materials.
 - A bullet-point list of **things you would specifically like me to talk about** in my letter. This isn't meant to be a draft letter for me, but should be things that I should remember when I write a letter for you. This can include standard things from your CV (how I got to know you, prizes won, etc.) but should also include relevant anecdotes to make useful stories about you and your work (i.e., received perfect scores on all exams, first author of a research paper as a junior, etc.). This is not the time for modesty: you need to remind me of how amazing you are so I can emphasize this in my letter!
 - An unofficial copy of your current transcript (e.g., just a PDF from the website).
