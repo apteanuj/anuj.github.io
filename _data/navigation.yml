@@ -14,6 +14,9 @@ main:
     
   - title: "Guides for Students"
     url: /guides/
+    
+  - title: "Need a Rec Letter?"
+    url: /recletter/
 
 #default links commented out below
 #  - title: "Publications"
