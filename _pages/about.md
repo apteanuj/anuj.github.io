@@ -9,10 +9,8 @@ redirect_from:
 ---
 
 
-I'm currently a graduate student in the Department of Physics at University of Chicago. My scientific research interests include:
-* Field Theories in High Energy and Condensed Matter Physics
-* General Relativity
+I'm currently a second year graduate student in the Department of Physics at University of Chicago. Previously, I was an undergraduate at MIT from 2015-2020 where I studied Physics and Philosophy. During my undergrad I worked with Prof. Scott Hughes on Gravitational Waves and with Prof. Mingda Li on applications of QFT to topological materials.  My current scientific research interests include:
 * Quantum Computing
-
+* Field Theories in High Energy and Condensed Matter Physics
 
 If you would like to like to collaborate or discuss any of these topics feel free to reach out via email ! 
