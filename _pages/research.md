@@ -4,6 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+During my undergrad I worked with [Prof. Scott Hughes](http://web.mit.edu/sahughes/www/) on Gravitational Waves and with [Prof. Mingda Li](http://qm.mit.edu/) on applications of Quantum Field Theory to topological materials.
  
 Field Theories provide a unified description of disparate physical phenomenon ranging from Gravitation to the Boiling of Water. In particular, they are crucial to understanding topological materials that can be used to build quantum processors and storage devices. With help from my advisor [Prof. Clay Cordova](https://physics.uchicago.edu/people/profile/clay-cordova/) I hope to contribute to our understanding of these theories. 
 
