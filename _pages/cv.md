@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-<object data="../files/APTE_CV.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="../files/APTE_CV.pdf" type="application/pdf" />
-<!--         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="../files/cv.pdf">Download PDF</a>.</p> -->
+<p>Here is a link to download the CV: <a href="../files/cv.pdf">Download PDF</a>.</p>
+<embed src="https://yourusername.github.io/filename.pdf" width="100%" height="850px"/>
     <!--</embed>-->
-</object>
+<!-- </object> -->
