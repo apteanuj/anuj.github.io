@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 <p>Here is a link to download a copy: <a href="../files/cv.pdf">Download CV</a>.</p>
-<embed src="https://yourusername.github.io/filename.pdf" width="100%" height="850px"/>
+<embed src="../files/cv.pdf" width="100%" height="700" type='application/pdf'> 
     <!--</embed>-->
 <!-- </object> -->
