@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm currently a fifth year graduate student in the Department of Physics at University of Chicago. Previously, I was an undergraduate at MIT from 2015-2020 where I studied Physics and Philosophy.  
+I'm currently a fifth year graduate student in the Department of Physics at University of Chicago. Previously, I was an undergraduate at MIT where I studied Physics and Philosophy.  
 
 My current scientific research interests include:
 * Applications of Deep Learning to Physical Sciences
