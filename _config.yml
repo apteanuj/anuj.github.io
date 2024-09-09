@@ -11,9 +11,9 @@ title                    : "Anuj Apte"
 title_separator          : "-"
 name                     : &name "Anuj S. Apte"
 description              : &description "Graduate Student in Physics at University of Chicago"
-url                      : https://anuj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://apteanuj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anuj.github.io"
+repository               : "apteanuj.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
